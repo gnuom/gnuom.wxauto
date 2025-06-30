@@ -1,0 +1,3116 @@
+('D:\\4-Project code\\wxauto\\dist\\bot.exe',
+ True,
+ False,
+ False,
+ 'd:\\4-Project '
+ 'code\\wxauto\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\images\\icon-console.ico',
+ None,
+ False,
+ False,
+ b'<?xml version="1.0" encoding="UTF-8" standalone="yes"?>\n<assembly xmlns='
+ b'"urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">\n  <trustInfo x'
+ b'mlns="urn:schemas-microsoft-com:asm.v3">\n    <security>\n      <requested'
+ b'Privileges>\n        <requestedExecutionLevel level="asInvoker" uiAccess='
+ b'"false"/>\n      </requestedPrivileges>\n    </security>\n  </trustInfo>\n  '
+ b'<compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">\n    <'
+ b'application>\n      <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f'
+ b'0}"/>\n      <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>\n '
+ b'     <supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"/>\n      <s'
+ b'upportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>\n      <supporte'
+ b'dOS Id="{8e0f7a12-bfb3-4fe8-b9a5-48fd50a15a9a}"/>\n    </application>\n  <'
+ b'/compatibility>\n  <application xmlns="urn:schemas-microsoft-com:asm.v3">'
+ b'\n    <windowsSettings>\n      <longPathAware xmlns="http://schemas.micros'
+ b'oft.com/SMI/2016/WindowsSettings">true</longPathAware>\n    </windowsSett'
+ b'ings>\n  </application>\n  <dependency>\n    <dependentAssembly>\n      <ass'
+ b'emblyIdentity type="win32" name="Microsoft.Windows.Common-Controls" version='
+ b'"6.0.0.0" processorArchitecture="*" publicKeyToken="6595b64144ccf1df" langua'
+ b'ge="*"/>\n    </dependentAssembly>\n  </dependency>\n</assembly>',
+ True,
+ False,
+ None,
+ None,
+ None,
+ 'D:\\4-Project code\\wxauto\\build\\bot\\bot.pkg',
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz', 'D:\\4-Project code\\wxauto\\build\\bot\\PYZ-00.pyz', 'PYZ'),
+  ('struct',
+   'D:\\4-Project code\\wxauto\\build\\bot\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'D:\\4-Project code\\wxauto\\build\\bot\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'D:\\4-Project code\\wxauto\\build\\bot\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'D:\\4-Project code\\wxauto\\build\\bot\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'D:\\4-Project code\\wxauto\\build\\bot\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'D:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'D:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'D:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'D:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pythoncom',
+   'D:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pythoncom.py',
+   'PYSOURCE'),
+  ('pyi_rth_pywintypes',
+   'D:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\rthooks\\pyi_rth_pywintypes.py',
+   'PYSOURCE'),
+  ('bot', 'D:\\4-Project code\\wxauto\\bot.py', 'PYSOURCE'),
+  ('python312.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy.libs\\msvcp140-263139962577ecda4cd9469ca360a746.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-13e2df515630b4a41f92893938845698.dll',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-13e2df515630b4a41f92893938845698.dll',
+   'BINARY'),
+  ('pywin32_system32\\pythoncom312.dll',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pywin32_system32\\pythoncom312.dll',
+   'BINARY'),
+  ('pywin32_system32\\pywintypes312.dll',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pywin32_system32\\pywintypes312.dll',
+   'BINARY'),
+  ('select.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\charset_normalizer\\md__mypyc.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('charset_normalizer\\md.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\charset_normalizer\\md.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\writers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('psutil\\_psutil_windows.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32pdh.pyd',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\win32\\win32pdh.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\mtrand.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\_philox.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\_generator.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\_common.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslib.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\testing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\sparse.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sas.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\sas.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\reshape.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\properties.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\parsers.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_parser.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_datetime.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\missing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\lib.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\json.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\join.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\interval.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\internals.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\indexing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\index.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashing.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\groupby.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\byteswap.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\arrays.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\_libs\\algos.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PIL\\_webp.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PIL\\_imagingtk.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PIL\\_imagingcms.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PIL\\_imagingmath.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp312-win_amd64.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PIL\\_imaging.cp312-win_amd64.pyd',
+   'EXTENSION'),
+  ('win32\\win32clipboard.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\win32\\win32clipboard.pyd',
+   'EXTENSION'),
+  ('win32\\win32process.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\win32\\win32process.pyd',
+   'EXTENSION'),
+  ('win32\\win32api.pyd',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('win32\\win32gui.pyd',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\win32\\win32gui.pyd',
+   'EXTENSION'),
+  ('Pythonwin\\win32ui.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('win32\\_win32sysloader.pyd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-path-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-core-path-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('python3.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\python3.dll',
+   'BINARY'),
+  ('sqlite3.dll',
+   'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\sqlite3.dll',
+   'BINARY'),
+  ('pandas.libs\\msvcp140-1a0962f2a91a74c6d7136a768987a591.dll',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas.libs\\msvcp140-1a0962f2a91a74c6d7136a768987a591.dll',
+   'BINARY'),
+  ('Pythonwin\\mfc140u.dll',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-multibyte-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'D:\\Daily '
+   'software\\Java\\jdk-24\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'D:\\Daily '
+   'software\\Java\\jdk-24\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\HONOR\\PCManager\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\HONOR\\PCManager\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'D:\\Daily '
+   'software\\Java\\jdk-24\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'D:\\Daily '
+   'software\\Java\\jdk-24\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'D:\\Daily '
+   'software\\Java\\jdk-24\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\HONOR\\PCManager\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'D:\\Daily '
+   'software\\Java\\jdk-24\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'D:\\Daily '
+   'software\\Java\\jdk-24\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-fibers-l1-1-0.dll',
+   'D:\\Daily software\\Java\\jdk-24\\bin\\api-ms-win-core-fibers-l1-1-0.dll',
+   'BINARY'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\LICENSE',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\INSTALLER',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\top_level.txt',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\RECORD',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\REQUESTED',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\METADATA',
+   'DATA'),
+  ('setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata-8.0.0.dist-info\\WHEEL',
+   'DATA'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('certifi\\py.typed',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\certifi\\py.typed',
+   'DATA'),
+  ('certifi\\cacert.pem',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\certifi\\cacert.pem',
+   'DATA'),
+  ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\zonenow.tab',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zonenow.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coyhaique',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coyhaique',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'd:\\4-Project code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('numpy-2.3.1.dist-info\\METADATA',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy-2.3.1.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.3.1.dist-info\\LICENSE.txt',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy-2.3.1.dist-info\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.3.1.dist-info\\RECORD',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy-2.3.1.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.3.1.dist-info\\DELVEWHEEL',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy-2.3.1.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.3.1.dist-info\\INSTALLER',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy-2.3.1.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.3.1.dist-info\\WHEEL',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy-2.3.1.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.3.1.dist-info\\entry_points.txt',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\numpy-2.3.1.dist-info\\entry_points.txt',
+   'DATA'),
+  ('base_library.zip',
+   'D:\\4-Project code\\wxauto\\build\\bot\\base_library.zip',
+   'DATA')],
+ [],
+ False,
+ False,
+ 1750752263,
+ [('run.exe',
+   'd:\\4-Project '
+   'code\\wxauto\\.venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
+   'EXECUTABLE')],
+ 'C:\\Users\\gnuom\\AppData\\Local\\Programs\\Python\\Python312\\python312.dll')

@@ -1,0 +1,11 @@
+2025-06-19 15:36:50.275 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2025-06-19 15:42:33.588 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2025-06-19 15:54:38.771 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2025-06-19 16:22:55.536 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2025-06-19 16:55:16.007 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2025-06-19 19:10:12.208 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}
+2025-06-30 16:34:42.215 sessionbox.py[243] _click -> 2025-06-30 16:34:42.297 sessionbox.py[243] _click -> Can not move cursorCan not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ControlTypeListItemControl: }
+ListItemControl}
+2025-06-30 16:34:49.213 sessionbox.py[243] _click -> 2025-06-30 16:34:49.260 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {Can not move cursorControlTypeontrol's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {: ControlTypeListItemControl: }
+ListItemControl}
+2025-06-30 16:34:57.017 sessionbox.py[243] _click -> Can not move cursor. ListItemControl's BoundingRectangle is (0,0,0,0)[0x0]. SearchProperties: {ControlType: ListItemControl}

@@ -1,0 +1,114 @@
+2025-06-23 09:04:36 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-23 09:04:37 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-23 09:04:37 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-23 09:04:37 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-23 09:04:38 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 小团体, False, False, 0.5
+2025-06-23 09:04:39 [wxauto] [DEBUG] [main.py:179]  小团体 切换到聊天窗口: 小团体
+2025-06-23 09:04:39 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 小团体
+2025-06-23 09:04:41 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 小团体
+2025-06-23 09:04:42 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-23 09:04:44 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-23 09:04:44 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-23 09:04:45 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-23 09:05:02 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 09:05:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-23 09:05:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-23 09:05:12 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ??? 打卡成功！时间：2025-06-23 09:05:04，已连续打卡 2 天
+2025-06-23 09:05:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-23 09:05:18 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ツ 打卡成功！时间：2025-06-23 09:05:12，已连续打卡 2 天
+2025-06-23 09:05:21 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - Gesla 打卡成功！时间：2025-06-23 09:05:17，已连续打卡 2 天
+2025-06-23 09:05:24 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：小团体 - 9:05
+2025-06-23 09:05:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-23 09:05:31 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - ??? 打卡成功！时间：2025-06-23 09:05:26，已连续打卡 2 天
+2025-06-23 09:05:40 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-23 09:05:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 昨天干了一天没搞好
+2025-06-23 09:05:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 今天上班开机自己好了
+2025-06-23 09:06:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - tnnd
+2025-06-23 09:12:42 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-23 09:12:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-23 09:12:48 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 刘小贱 打卡成功！时间：2025-06-23 09:12:45，已连续打卡 3 天
+2025-06-23 09:16:12 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-23 09:16:12 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-23 09:16:18 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 心上秋 打卡成功！时间：2025-06-23 09:16:15，已连续打卡 4 天
+2025-06-23 09:50:39 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 09:50:39 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 完蛋
+2025-06-23 09:50:46 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 09:50:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 一到工作日就想摸鱼
+2025-06-23 10:30:41 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 10:30:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - ➕1
+2025-06-23 10:30:50 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-23 10:30:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 九点上班到现在
+2025-06-23 10:31:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 一直在摸鱼
+2025-06-23 10:31:08 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 还被蚊子咬了5口
+2025-06-23 10:31:20 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-23 10:31:24 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-23 10:31:28 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-23 10:31:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-23 10:31:41 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 嗯？你们办公室要消毒驱虫
+2025-06-23 10:31:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我是去厕所摸鱼的时候被咬的
+2025-06-23 10:32:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-23 10:32:07 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - emmmmmm
+2025-06-23 10:32:08 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 那你活该
+2025-06-23 10:32:13 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 10:32:13 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-23 10:36:33 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 10:36:33 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-23 10:36:43 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 10:36:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 每个周一都要喝红牛
+2025-06-23 10:37:00 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-23 10:37:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 每个周一 我是咖啡
+2025-06-23 10:37:12 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 但我已经喝完扔掉了
+2025-06-23 10:37:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-23 10:37:21 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 206, in _get_listen_messages
+    chat.Show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 77, in Show
+    self.core._show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\base.py", line 31, in _show
+    self.control.SwitchToThisWindow()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7032, in SwitchToThisWindow
+    if self.IsTopLevel():
+       ^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6361, in IsTopLevel
+    handle = self.NativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5653, in NativeWindowHandle
+    handle = self.Element.CurrentNativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+2025-06-23 10:37:24 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-23 12:57:09 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试3 已关闭，移除监听
+2025-06-23 12:57:11 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试2 已关闭，移除监听
+2025-06-23 12:57:12 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试 已关闭，移除监听
+2025-06-24 07:51:50 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 07:51:50 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-24 07:52:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 什么时候来上海玩
+2025-06-24 07:52:13 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：小团体 - 昨天 21:48
+2025-06-24 07:52:13 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 嗯？
+2025-06-24 07:52:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你在上海吗
+2025-06-24 07:52:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 什么叫来上海完
+2025-06-24 07:52:28 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：小团体 - 昨天 22:05
+2025-06-24 07:52:28 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 206, in _get_listen_messages
+    chat.Show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 77, in Show
+    self.core._show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\base.py", line 31, in _show
+    self.control.SwitchToThisWindow()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7032, in SwitchToThisWindow
+    if self.IsTopLevel():
+       ^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6361, in IsTopLevel
+    handle = self.NativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5653, in NativeWindowHandle
+    handle = self.Element.CurrentNativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+2025-06-24 07:52:29 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听

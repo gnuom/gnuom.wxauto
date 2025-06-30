@@ -1,0 +1,1180 @@
+2025-06-27 07:53:43 [root] [ERROR] [ui.py:198]  ❌ 执行 WorkerThread.run() 时发生异常
+Traceback (most recent call last):
+  File "D:\4-Project code\wxauto\ui.py", line 175, in run
+    wx = WeChat()
+         ^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 181, in __init__
+    self.core = WeChatMainWnd(hwnd)
+                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\main.py", line 118, in __init__
+    raise Exception(f'未找到微信窗口')
+Exception: 未找到微信窗口
+2025-06-27 07:53:43 [root] [INFO] [ui.py:202]  🧵 线程已退出
+2025-06-27 07:53:44 [root] [INFO] [ui.py:96]  🔁 开启监听
+2025-06-27 07:53:44 [root] [DEBUG] [ui.py:171]  ✅ WorkerThread.run() 方法已进入
+2025-06-27 07:53:44 [root] [ERROR] [ui.py:198]  ❌ 执行 WorkerThread.run() 时发生异常
+Traceback (most recent call last):
+  File "D:\4-Project code\wxauto\ui.py", line 175, in run
+    wx = WeChat()
+         ^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 181, in __init__
+    self.core = WeChatMainWnd(hwnd)
+                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\main.py", line 118, in __init__
+    raise Exception(f'未找到微信窗口')
+Exception: 未找到微信窗口
+2025-06-27 07:53:44 [root] [INFO] [ui.py:202]  🧵 线程已退出
+2025-06-27 07:55:39 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-27 07:55:43 [root] [DEBUG] [ui.py:179]  🔔 正在绑定 message_received 信号...
+2025-06-27 07:55:43 [root] [DEBUG] [ui.py:181]  🔔 message_received 信号绑定完成
+2025-06-27 07:55:43 [root] [INFO] [ui.py:185]  👂 正在监听群聊: wxauto测试
+2025-06-27 07:55:43 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-27 07:55:44 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-27 07:55:44 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-27 07:55:45 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-27 07:55:46 [root] [INFO] [ui.py:185]  👂 正在监听群聊: wxauto测试2
+2025-06-27 07:55:46 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试2, False, False, 0.5
+2025-06-27 07:55:47 [wxauto] [DEBUG] [main.py:179]  wxauto测试2 切换到聊天窗口: wxauto测试2
+2025-06-27 07:55:47 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试2
+2025-06-27 07:55:47 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试2
+2025-06-27 07:55:48 [root] [INFO] [ui.py:185]  👂 正在监听群聊: wxauto测试3
+2025-06-27 07:55:48 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试3, False, False, 0.5
+2025-06-27 07:55:49 [wxauto] [DEBUG] [main.py:179]  wxauto测试3 切换到聊天窗口: wxauto测试3
+2025-06-27 07:55:49 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试3
+2025-06-27 07:55:50 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试3
+2025-06-27 07:55:51 [root] [INFO] [ui.py:185]  👂 正在监听群聊: 小团体
+2025-06-27 07:55:51 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 小团体, False, False, 0.5
+2025-06-27 07:55:52 [wxauto] [DEBUG] [main.py:179]  小团体 切换到聊天窗口: 小团体
+2025-06-27 07:55:52 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 小团体
+2025-06-27 07:55:53 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 小团体
+2025-06-27 07:55:54 [root] [INFO] [ui.py:185]  👂 正在监听群聊: 巴啦啦抠脚堡
+2025-06-27 07:55:54 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-27 07:55:55 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-27 07:55:55 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-27 07:55:55 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-27 07:55:56 [root] [INFO] [ui.py:189]  🔊 开始监听消息
+2025-06-27 07:56:08 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-27 07:56:08 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 07:56:08 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 07:56:08 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:56:08 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-27 07:56:08 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:56:08, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-27 07:56:08 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：打卡 来自 巴啦啦抠脚堡
+2025-06-27 07:56:08 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:56:08 [WeChatBot] [DEBUG] [main.py:27]  🛠️ 正在执行打卡功能
+2025-06-27 07:56:08 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 巴啦啦抠脚堡
+2025-06-27 07:56:08 [WeChatBot] [DEBUG] [checkin.py:36]  💾 准备写入打卡记录至: ./data/checkin/checkin_records_巴啦啦抠脚堡.csv
+2025-06-27 07:56:08 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:56:08, 巴啦啦抠脚堡, ???, 打卡
+2025-06-27 07:56:08 [WeChatBot] [INFO] [checkin.py:76]  ✅ 打卡成功: ???, 连续打卡: 6 天
+2025-06-27 07:56:12 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ??? 打卡成功！时间：2025-06-27 07:56:08，已连续打卡 6 天
+2025-06-27 07:56:12 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：??? 打卡成功！时间：2025-06-27 07:56:08，已连续打卡 6 天 来自 巴啦啦抠脚堡
+2025-06-27 07:56:12 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:56:12 [root] [DEBUG] [ui.py:147]  📨 接收到消息: ??? 打卡成功！时间：2025-06-27 07:56:08，已连续打卡 6 天 来自 巴啦啦抠脚堡
+2025-06-27 07:56:12 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:56:12, 巴啦啦抠脚堡, self, ??? 打卡成功！时间：2025-06-27 07:56:08，已连续打卡 6 天
+2025-06-27 07:56:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-27 07:56:18 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：打卡 来自 巴啦啦抠脚堡
+2025-06-27 07:56:18 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 巴啦啦抠脚堡
+2025-06-27 07:56:18 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:56:18 [WeChatBot] [DEBUG] [main.py:27]  🛠️ 正在执行打卡功能
+2025-06-27 07:56:18 [WeChatBot] [DEBUG] [checkin.py:36]  💾 准备写入打卡记录至: ./data/checkin/checkin_records_巴啦啦抠脚堡.csv
+2025-06-27 07:56:18 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:56:18, 巴啦啦抠脚堡, ツ, 打卡
+2025-06-27 07:56:18 [WeChatBot] [INFO] [checkin.py:76]  ✅ 打卡成功: ツ, 连续打卡: 6 天
+2025-06-27 07:56:21 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ツ 打卡成功！时间：2025-06-27 07:56:18，已连续打卡 6 天
+2025-06-27 07:56:21 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：ツ 打卡成功！时间：2025-06-27 07:56:18，已连续打卡 6 天 来自 巴啦啦抠脚堡
+2025-06-27 07:56:21 [root] [DEBUG] [ui.py:147]  📨 接收到消息: ツ 打卡成功！时间：2025-06-27 07:56:18，已连续打卡 6 天 来自 巴啦啦抠脚堡
+2025-06-27 07:56:21 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:56:21 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:56:21, 巴啦啦抠脚堡, self, ツ 打卡成功！时间：2025-06-27 07:56:18，已连续打卡 6 天
+2025-06-27 07:56:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 07:56:23 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 07:56:23 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:56:23 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 07:56:23 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:56:23, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-27 07:58:03 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 07:58:03 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 07:58:03 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:58:03 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 07:58:03 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:58:03, 巴啦啦抠脚堡, self, [动画表情]
+2025-06-27 07:58:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-27 07:58:15 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 07:58:15 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 07:58:15 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:58:15, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-27 07:58:15 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:58:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 叫你老大出来
+2025-06-27 07:58:15 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：叫你老大出来 来自 巴啦啦抠脚堡
+2025-06-27 07:58:15 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 叫你老大出来 来自 巴啦啦抠脚堡
+2025-06-27 07:58:15 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:58:15, 巴啦啦抠脚堡, ツ, 叫你老大出来
+2025-06-27 07:58:15 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:58:25 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 他在emo
+2025-06-27 07:58:25 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：他在emo 来自 巴啦啦抠脚堡
+2025-06-27 07:58:25 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 他在emo 来自 巴啦啦抠脚堡
+2025-06-27 07:58:25 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:58:25, 巴啦啦抠脚堡, self, 他在emo
+2025-06-27 07:58:25 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:58:36 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 07:58:36 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 07:58:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 07:58:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:58:36, 巴啦啦抠脚堡, self, [动画表情]
+2025-06-27 07:58:36 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:58:48 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 这傻逼天天emo
+2025-06-27 07:58:48 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：这傻逼天天emo 来自 巴啦啦抠脚堡
+2025-06-27 07:58:48 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 这傻逼天天emo 来自 巴啦啦抠脚堡
+2025-06-27 07:58:48 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:58:48, 巴啦啦抠脚堡, self, 这傻逼天天emo
+2025-06-27 07:58:48 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:59:27 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-27 07:59:27 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 07:59:27 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 07:59:27 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 07:59:27 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 好好好
+2025-06-27 07:59:27 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:59:27, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-27 07:59:28 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：好好好 来自 巴啦啦抠脚堡
+2025-06-27 07:59:28 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 好好好 来自 巴啦啦抠脚堡
+2025-06-27 07:59:28 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 07:59:28, 巴啦啦抠脚堡, ツ, 好好好
+2025-06-27 07:59:28 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:04:57 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-27 08:04:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 08:04:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 08:04:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:04:57, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-27 08:04:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:04:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 靠
+2025-06-27 08:04:58 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：靠 来自 巴啦啦抠脚堡
+2025-06-27 08:04:58 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 靠 来自 巴啦啦抠脚堡
+2025-06-27 08:04:58 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:04:58 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:04:58, 巴啦啦抠脚堡, ツ, 靠
+2025-06-27 08:05:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 突然发现衣服穿反了
+2025-06-27 08:05:02 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：突然发现衣服穿反了 来自 巴啦啦抠脚堡
+2025-06-27 08:05:02 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 突然发现衣服穿反了 来自 巴啦啦抠脚堡
+2025-06-27 08:05:02 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:02, 巴啦啦抠脚堡, ツ, 突然发现衣服穿反了
+2025-06-27 08:05:02 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 08:05:05 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:05 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:05, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-27 08:05:10 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 08:05:10 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:10 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:10 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:10 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:10, 巴啦啦抠脚堡, self, [动画表情]
+2025-06-27 08:05:17 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 看看穿搭
+2025-06-27 08:05:18 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：看看穿搭 来自 巴啦啦抠脚堡
+2025-06-27 08:05:18 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 看看穿搭 来自 巴啦啦抠脚堡
+2025-06-27 08:05:18 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:18 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:18, 巴啦啦抠脚堡, self, 看看穿搭
+2025-06-27 08:05:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 还好正反面一样
+2025-06-27 08:05:20 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：还好正反面一样 来自 巴啦啦抠脚堡
+2025-06-27 08:05:20 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 还好正反面一样 来自 巴啦啦抠脚堡
+2025-06-27 08:05:20 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:20 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:20, 巴啦啦抠脚堡, ツ, 还好正反面一样
+2025-06-27 08:05:33 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-27 08:05:33 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[图片] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:33 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [图片] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:33 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:33 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:33, 巴啦啦抠脚堡, ツ, [图片]
+2025-06-27 08:05:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 都是条纹
+2025-06-27 08:05:40 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：都是条纹 来自 巴啦啦抠脚堡
+2025-06-27 08:05:40 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 都是条纹 来自 巴啦啦抠脚堡
+2025-06-27 08:05:40 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:40, 巴啦啦抠脚堡, ツ, 都是条纹
+2025-06-27 08:05:40 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:46 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 好像还好
+2025-06-27 08:05:46 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：好像还好 来自 巴啦啦抠脚堡
+2025-06-27 08:05:46 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 好像还好 来自 巴啦啦抠脚堡
+2025-06-27 08:05:46 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:46 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:46, 巴啦啦抠脚堡, self, 好像还好
+2025-06-27 08:05:55 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-27 08:05:55 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 08:05:55 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 08:05:55 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:55, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-27 08:05:55 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:55 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 刚刚整理衣领 才发现标签在前面
+2025-06-27 08:05:55 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：刚刚整理衣领 才发现标签在前面 来自 巴啦啦抠脚堡
+2025-06-27 08:05:55 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 刚刚整理衣领 才发现标签在前面 来自 巴啦啦抠脚堡
+2025-06-27 08:05:55 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:55, 巴啦啦抠脚堡, ツ, 刚刚整理衣领 才发现标签在前面
+2025-06-27 08:05:55 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:05:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 08:05:58 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:58 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:05:58 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:05:58, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-27 08:05:58 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:06:10 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 08:06:10 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:06:10 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:06:10 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:06:10 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:06:10, 巴啦啦抠脚堡, self, [动画表情]
+2025-06-27 08:06:57 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-27 08:06:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 08:06:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:06:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-27 08:06:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 08:06:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:06:57, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-27 08:06:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：打卡 来自 巴啦啦抠脚堡
+2025-06-27 08:06:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 巴啦啦抠脚堡
+2025-06-27 08:06:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:06:57 [WeChatBot] [DEBUG] [main.py:27]  🛠️ 正在执行打卡功能
+2025-06-27 08:06:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:06:57, 巴啦啦抠脚堡, Gesla, 打卡
+2025-06-27 08:06:57 [WeChatBot] [DEBUG] [checkin.py:36]  💾 准备写入打卡记录至: ./data/checkin/checkin_records_巴啦啦抠脚堡.csv
+2025-06-27 08:06:57 [WeChatBot] [INFO] [checkin.py:76]  ✅ 打卡成功: Gesla, 连续打卡: 6 天
+2025-06-27 08:07:00 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - Gesla 打卡成功！时间：2025-06-27 08:06:57，已连续打卡 6 天
+2025-06-27 08:07:00 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：Gesla 打卡成功！时间：2025-06-27 08:06:57，已连续打卡 6 天 来自 巴啦啦抠脚堡
+2025-06-27 08:07:00 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:07:00 [root] [DEBUG] [ui.py:147]  📨 接收到消息: Gesla 打卡成功！时间：2025-06-27 08:06:57，已连续打卡 6 天 来自 巴啦啦抠脚堡
+2025-06-27 08:07:00 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:07:00, 巴啦啦抠脚堡, self, Gesla 打卡成功！时间：2025-06-27 08:06:57，已连续打卡 6 天
+2025-06-27 08:07:09 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 哈哈哈哈有点勒脖子是吗
+2025-06-27 08:07:09 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：哈哈哈哈有点勒脖子是吗 来自 巴啦啦抠脚堡
+2025-06-27 08:07:09 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:07:09 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 哈哈哈哈有点勒脖子是吗 来自 巴啦啦抠脚堡
+2025-06-27 08:07:09 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:07:09, 巴啦啦抠脚堡, Gesla, 哈哈哈哈有点勒脖子是吗
+2025-06-27 08:07:14 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 哥斯拉出现了
+2025-06-27 08:07:14 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：哥斯拉出现了 来自 巴啦啦抠脚堡
+2025-06-27 08:07:14 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 哥斯拉出现了 来自 巴啦啦抠脚堡
+2025-06-27 08:07:14 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:07:14 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:07:14, 巴啦啦抠脚堡, self, 哥斯拉出现了
+2025-06-27 08:07:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 到不会勒脖子
+2025-06-27 08:07:19 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：到不会勒脖子 来自 巴啦啦抠脚堡
+2025-06-27 08:07:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 到不会勒脖子 来自 巴啦啦抠脚堡
+2025-06-27 08:07:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:07:19, 巴啦啦抠脚堡, ツ, 到不会勒脖子
+2025-06-27 08:07:19 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:07:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 马上放暑假了
+2025-06-27 08:07:54 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：马上放暑假了 来自 巴啦啦抠脚堡
+2025-06-27 08:07:54 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 马上放暑假了 来自 巴啦啦抠脚堡
+2025-06-27 08:07:54 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:07:54 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:07:54, 巴啦啦抠脚堡, self, 马上放暑假了
+2025-06-27 08:08:11 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 到时候有人爽死
+2025-06-27 08:08:11 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：到时候有人爽死 来自 巴啦啦抠脚堡
+2025-06-27 08:08:11 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 到时候有人爽死 来自 巴啦啦抠脚堡
+2025-06-27 08:08:11 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:08:11, 巴啦啦抠脚堡, self, 到时候有人爽死
+2025-06-27 08:08:11 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 08:08:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 08:08:29 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:08:29 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 08:08:29 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 08:08:29, 巴啦啦抠脚堡, self, [动画表情]
+2025-06-27 08:08:29 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 10:47:39 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 10:47:40 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 10:47:40 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 10:47:40 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 10:47:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-27 10:47:40 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 10:47:40, 小团体, system, 以下为新消息
+2025-06-27 10:47:40 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：打卡 来自 小团体
+2025-06-27 10:47:40 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 小团体
+2025-06-27 10:47:40 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 10:47:40 [WeChatBot] [DEBUG] [main.py:27]  🛠️ 正在执行打卡功能
+2025-06-27 10:47:40 [WeChatBot] [DEBUG] [checkin.py:36]  💾 准备写入打卡记录至: ./data/checkin/checkin_records_小团体.csv
+2025-06-27 10:47:40 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 10:47:40, 小团体, 心上秋, 打卡
+2025-06-27 10:47:40 [WeChatBot] [INFO] [checkin.py:76]  ✅ 打卡成功: 心上秋, 连续打卡: 8 天
+2025-06-27 10:47:44 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 心上秋 打卡成功！时间：2025-06-27 10:47:40，已连续打卡 8 天
+2025-06-27 10:47:44 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：心上秋 打卡成功！时间：2025-06-27 10:47:40，已连续打卡 8 天 来自 小团体
+2025-06-27 10:47:44 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 10:47:44 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 心上秋 打卡成功！时间：2025-06-27 10:47:40，已连续打卡 8 天 来自 小团体
+2025-06-27 10:47:44 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 10:47:44, 小团体, self, 心上秋 打卡成功！时间：2025-06-27 10:47:40，已连续打卡 8 天
+2025-06-27 10:49:22 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 10:49:22 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 10:49:22 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 10:49:22 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡打卡
+2025-06-27 10:49:22 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 10:49:22 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 10:49:22, 小团体, system, 以下为新消息
+2025-06-27 10:49:22 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：打卡打卡 来自 小团体
+2025-06-27 10:49:22 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡打卡 来自 小团体
+2025-06-27 10:49:22 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 10:49:22, 小团体, 心上秋, 打卡打卡
+2025-06-27 10:49:22 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 10:49:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-27 10:49:34 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：今日已打卡 来自 小团体
+2025-06-27 10:49:34 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 今日已打卡 来自 小团体
+2025-06-27 10:49:34 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 10:49:34 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 10:49:34, 小团体, self, 今日已打卡
+2025-06-27 11:04:45 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:04:45 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:04:45 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:04:45 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：小团体 - [图片]
+2025-06-27 11:04:45 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:04:45 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:04:45, 小团体, system, 以下为新消息
+2025-06-27 11:04:46 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[图片] 来自 小团体
+2025-06-27 11:04:46 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:04:46 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [图片] 来自 小团体
+2025-06-27 11:04:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - no
+2025-06-27 11:04:46 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:04:46, 小团体, ???, [图片]
+2025-06-27 11:04:46 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：no 来自 小团体
+2025-06-27 11:04:46 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:04:46 [root] [DEBUG] [ui.py:147]  📨 接收到消息: no 来自 小团体
+2025-06-27 11:04:46 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:04:46, 小团体, ???, no
+2025-06-27 11:04:49 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:04:49 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:04:49 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:04:49 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 没有奥特曼
+2025-06-27 11:04:49 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:04:49 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:04:49, 小团体, system, 以下为新消息
+2025-06-27 11:04:49 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：没有奥特曼 来自 小团体
+2025-06-27 11:04:49 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:04:49 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 没有奥特曼 来自 小团体
+2025-06-27 11:04:49 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:04:49, 小团体, ???, 没有奥特曼
+2025-06-27 11:07:51 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:07:52 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:07:52 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:07:52 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:07:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 明天
+2025-06-27 11:07:52 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:07:52, 小团体, system, 以下为新消息
+2025-06-27 11:07:52 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：明天 来自 小团体
+2025-06-27 11:07:52 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 明天 来自 小团体
+2025-06-27 11:07:52 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:07:52 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:07:52, 小团体, 刘小贱, 明天
+2025-06-27 11:07:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 明天有赛罗
+2025-06-27 11:07:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：明天有赛罗 来自 小团体
+2025-06-27 11:07:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 明天有赛罗 来自 小团体
+2025-06-27 11:07:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:07:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:07:56, 小团体, 刘小贱, 明天有赛罗
+2025-06-27 11:07:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 上周是雷欧，上上周是泽塔
+2025-06-27 11:07:59 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：上周是雷欧，上上周是泽塔 来自 小团体
+2025-06-27 11:07:59 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:07:59 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 上周是雷欧，上上周是泽塔 来自 小团体
+2025-06-27 11:07:59 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:07:59, 小团体, 刘小贱, 上周是雷欧，上上周是泽塔
+2025-06-27 11:08:44 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:08:44 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:08:44 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:08:44 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:08:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 是不是要抢
+2025-06-27 11:08:44 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:08:44, 小团体, system, 以下为新消息
+2025-06-27 11:08:44 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：是不是要抢 来自 小团体
+2025-06-27 11:08:44 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:08:44 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 是不是要抢 来自 小团体
+2025-06-27 11:08:44 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:08:44, 小团体, ???, 是不是要抢
+2025-06-27 11:08:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 都被抢完了
+2025-06-27 11:08:48 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：都被抢完了 来自 小团体
+2025-06-27 11:08:48 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 都被抢完了 来自 小团体
+2025-06-27 11:08:48 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:08:48 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:08:48, 小团体, 心上秋, 都被抢完了
+2025-06-27 11:08:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 怎么进来都是空的
+2025-06-27 11:08:48 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：怎么进来都是空的 来自 小团体
+2025-06-27 11:08:48 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 怎么进来都是空的 来自 小团体
+2025-06-27 11:08:48 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:08:48 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:08:48, 小团体, ???, 怎么进来都是空的
+2025-06-27 11:08:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:08:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:08:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:08:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:08:56, 小团体, system, 以下为新消息
+2025-06-27 11:08:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:08:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 11:08:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 11:08:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 11:08:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:08:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:08:56, 小团体, ???, [动画表情]
+2025-06-27 11:09:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 售罄
+2025-06-27 11:09:02 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：售罄 来自 小团体
+2025-06-27 11:09:02 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 售罄 来自 小团体
+2025-06-27 11:09:02 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:02 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:02, 小团体, 心上秋, 售罄
+2025-06-27 11:09:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 我要雷欧
+2025-06-27 11:09:11 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：我要雷欧 来自 小团体
+2025-06-27 11:09:11 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:11 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 我要雷欧 来自 小团体
+2025-06-27 11:09:11 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:11, 小团体, ???, 我要雷欧
+2025-06-27 11:09:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 奥特曼还是火
+2025-06-27 11:09:17 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：奥特曼还是火 来自 小团体
+2025-06-27 11:09:17 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 奥特曼还是火 来自 小团体
+2025-06-27 11:09:17 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:17 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:17, 小团体, 心上秋, 奥特曼还是火
+2025-06-27 11:09:22 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 售(shou）罄
+2025-06-27 11:09:23 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：售(shou）罄 来自 小团体
+2025-06-27 11:09:23 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 售(shou）罄 来自 小团体
+2025-06-27 11:09:23 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:23 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:23, 小团体, 刘小贱, 售(shou）罄
+2025-06-27 11:09:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 去闲鱼上看看有咩有专卖
+2025-06-27 11:09:31 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：去闲鱼上看看有咩有专卖 来自 小团体
+2025-06-27 11:09:31 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 去闲鱼上看看有咩有专卖 来自 小团体
+2025-06-27 11:09:31 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:31 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:31, 小团体, 刘小贱, 去闲鱼上看看有咩有专卖
+2025-06-27 11:09:34 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 转卖
+2025-06-27 11:09:34 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：转卖 来自 小团体
+2025-06-27 11:09:34 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:34 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 转卖 来自 小团体
+2025-06-27 11:09:34 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:34, 小团体, 刘小贱, 转卖
+2025-06-27 11:09:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 售罄（xin）
+2025-06-27 11:09:48 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：售罄（xin） 来自 小团体
+2025-06-27 11:09:48 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 售罄（xin） 来自 小团体
+2025-06-27 11:09:48 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:48 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:48, 小团体, ???, 售罄（xin）
+2025-06-27 11:09:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 专卖毛
+2025-06-27 11:09:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：专卖毛 来自 小团体
+2025-06-27 11:09:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:09:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 专卖毛 来自 小团体
+2025-06-27 11:09:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:09:57, 小团体, ???, 专卖毛
+2025-06-27 11:10:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - qing
+2025-06-27 11:10:00 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：qing 来自 小团体
+2025-06-27 11:10:00 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:10:00 [root] [DEBUG] [ui.py:147]  📨 接收到消息: qing 来自 小团体
+2025-06-27 11:10:00 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:10:00, 小团体, 刘小贱, qing
+2025-06-27 11:10:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 肯定要自己买啊
+2025-06-27 11:10:04 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：肯定要自己买啊 来自 小团体
+2025-06-27 11:10:04 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:10:04 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 肯定要自己买啊 来自 小团体
+2025-06-27 11:10:04 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:10:04, 小团体, ???, 肯定要自己买啊
+2025-06-27 11:10:50 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:10:50 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:10:50 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:10:50 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:10:50 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不是套餐里送的
+2025-06-27 11:10:50 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:10:50, 小团体, system, 以下为新消息
+2025-06-27 11:10:50 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：不是套餐里送的 来自 小团体
+2025-06-27 11:10:50 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:10:50 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 不是套餐里送的 来自 小团体
+2025-06-27 11:10:50 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:10:50, 小团体, ???, 不是套餐里送的
+2025-06-27 11:10:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不如去买手办
+2025-06-27 11:10:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：不如去买手办 来自 小团体
+2025-06-27 11:10:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 不如去买手办 来自 小团体
+2025-06-27 11:10:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:10:56, 小团体, ???, 不如去买手办
+2025-06-27 11:10:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:11:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:11:15 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:11:15 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:11:15 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:11:15, 小团体, system, 以下为新消息
+2025-06-27 11:11:15 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:11:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 转卖
+2025-06-27 11:11:15 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：转卖 来自 小团体
+2025-06-27 11:11:15 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 转卖 来自 小团体
+2025-06-27 11:11:15 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:11:15 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:11:15, 小团体, 刘小贱, 转卖
+2025-06-27 11:11:27 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 别人套餐里送的，然后挂闲鱼卖
+2025-06-27 11:11:27 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：别人套餐里送的，然后挂闲鱼卖 来自 小团体
+2025-06-27 11:11:27 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:11:27 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 别人套餐里送的，然后挂闲鱼卖 来自 小团体
+2025-06-27 11:11:27 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:11:27, 小团体, 刘小贱, 别人套餐里送的，然后挂闲鱼卖
+2025-06-27 11:11:37 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 买别的转卖的和套餐里自己选的
+2025-06-27 11:11:38 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：买别的转卖的和套餐里自己选的 来自 小团体
+2025-06-27 11:11:38 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 买别的转卖的和套餐里自己选的 来自 小团体
+2025-06-27 11:11:38 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:11:38, 小团体, ???, 买别的转卖的和套餐里自己选的
+2025-06-27 11:11:38 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:11:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不一样
+2025-06-27 11:11:41 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：不一样 来自 小团体
+2025-06-27 11:11:41 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 不一样 来自 小团体
+2025-06-27 11:11:41 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:11:41 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:11:41, 小团体, ???, 不一样
+2025-06-27 11:11:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 11:11:47 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 11:11:47 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 11:11:47 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:11:47 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:11:47, 小团体, ???, [动画表情]
+2025-06-27 11:12:06 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:12:06 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:12:06 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:12:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 11:12:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:12:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:12:06, 小团体, system, 以下为新消息
+2025-06-27 11:12:06 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 11:12:06 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:12:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 11:12:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:12:06, 小团体, 刘小贱, [动画表情]
+2025-06-27 11:14:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 11:14:28 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 11:14:28 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:14:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 11:14:28 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 11:14:28 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:14:28, 小团体, system, 以下为新消息
+2025-06-27 11:14:28 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 11:14:28 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:14:28 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 11:14:28 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:14:28, 小团体, 心上秋, [动画表情]
+2025-06-27 11:26:17 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：小团体 - 11:26
+2025-06-27 11:26:17 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：11:26 来自 小团体
+2025-06-27 11:26:17 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 11:26 来自 小团体
+2025-06-27 11:26:17 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:26:17, 小团体, base, 11:26
+2025-06-27 11:26:17 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:26:17 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-27 11:26:17 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 11:26:17 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 11:26:17 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:26:17 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:26:17, 小团体, self, [动画表情]
+2025-06-27 11:42:13 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：巴啦啦抠脚堡 - 11:42
+2025-06-27 11:42:13 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：11:42 来自 巴啦啦抠脚堡
+2025-06-27 11:42:13 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:42:13 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 11:42 来自 巴啦啦抠脚堡
+2025-06-27 11:42:13 [wxauto] [DEBUG] [wx.py:205]  [self image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-27 11:42:13 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:42:13, 巴啦啦抠脚堡, base, 11:42
+2025-06-27 11:42:13 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[图片] 来自 巴啦啦抠脚堡
+2025-06-27 11:42:13 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [图片] 来自 巴啦啦抠脚堡
+2025-06-27 11:42:13 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 11:42:13 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:42:13, 巴啦啦抠脚堡, self, [图片]
+2025-06-27 11:42:24 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 今天的壁纸好美
+2025-06-27 11:42:24 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：今天的壁纸好美 来自 巴啦啦抠脚堡
+2025-06-27 11:42:24 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 今天的壁纸好美 来自 巴啦啦抠脚堡
+2025-06-27 11:42:24 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 11:42:24, 巴啦啦抠脚堡, self, 今天的壁纸好美
+2025-06-27 11:42:24 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:04:04 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 14:04:04 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 14:04:04 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:04:04 [wxauto] [DEBUG] [wx.py:205]  [friend other]获取到新消息：小团体 - [链接]
+2025-06-27 14:04:04 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 14:04:04 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 14:04:04, 小团体, system, 以下为新消息
+2025-06-27 14:04:04 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[链接] 来自 小团体
+2025-06-27 14:04:04 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [链接] 来自 小团体
+2025-06-27 14:04:04 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:04:04 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 14:04:04, 小团体, ???, [链接]
+2025-06-27 14:04:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 14:04:15 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 14:04:15 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 14:04:15 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:04:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 要死翘翘了
+2025-06-27 14:04:15 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 14:04:15, 小团体, system, 以下为新消息
+2025-06-27 14:04:15 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：要死翘翘了 来自 小团体
+2025-06-27 14:04:15 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:04:15 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 要死翘翘了 来自 小团体
+2025-06-27 14:04:15 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 14:04:15, 小团体, ???, 要死翘翘了
+2025-06-27 14:10:05 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 14:10:06 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 14:10:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 14:10:06 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:10:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 无所谓
+2025-06-27 14:10:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 14:10:06, 小团体, system, 以下为新消息
+2025-06-27 14:10:06 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：无所谓 来自 小团体
+2025-06-27 14:10:06 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:10:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 无所谓 来自 小团体
+2025-06-27 14:10:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 14:10:06, 小团体, 心上秋, 无所谓
+2025-06-27 14:10:12 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 14:10:12 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 14:10:12 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 14:10:12 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 14:10:12 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 14:10:12, 小团体, 心上秋, [动画表情]
+2025-06-27 15:19:20 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:19:20 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:19:20 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:19:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:19:20 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:19:20 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:19:20, 小团体, system, 以下为新消息
+2025-06-27 15:19:20 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:19:20 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:19:20 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:19:20 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:19:20, 小团体, 心上秋, [动画表情]
+2025-06-27 15:19:36 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:19:36 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:19:36 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:19:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:19:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:19:36, 小团体, self, [动画表情]
+2025-06-27 15:19:45 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:19:45 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:19:45 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:19:45 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:19:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:19:45 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:19:45, 小团体, system, 以下为新消息
+2025-06-27 15:19:45 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:19:45 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:19:45 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:19:45 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:19:45, 小团体, 刘小贱, [动画表情]
+2025-06-27 15:19:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 是不是我发什么你都回@nuomy 
+2025-06-27 15:19:53 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：是不是我发什么你都回@nuomy  来自 小团体
+2025-06-27 15:19:53 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:19:53 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 是不是我发什么你都回@nuomy  来自 小团体
+2025-06-27 15:19:53 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:19:53, 小团体, 心上秋, 是不是我发什么你都回@nuomy 
+2025-06-27 15:19:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 辛苦工作了一天
+2025-06-27 15:19:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：辛苦工作了一天 来自 小团体
+2025-06-27 15:19:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:19:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 辛苦工作了一天 来自 小团体
+2025-06-27 15:19:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:19:57, 小团体, 刘小贱, 辛苦工作了一天
+2025-06-27 15:20:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 刘师傅又亏了八十块
+2025-06-27 15:20:02 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：刘师傅又亏了八十块 来自 小团体
+2025-06-27 15:20:02 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:02 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 刘师傅又亏了八十块 来自 小团体
+2025-06-27 15:20:02 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:02, 小团体, 刘小贱, 刘师傅又亏了八十块
+2025-06-27 15:20:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:20:05 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:20:05 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:20:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:05, 小团体, self, [动画表情]
+2025-06-27 15:20:13 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 也不一定
+2025-06-27 15:20:13 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：也不一定 来自 小团体
+2025-06-27 15:20:13 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 也不一定 来自 小团体
+2025-06-27 15:20:13 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:13 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:13, 小团体, self, 也不一定
+2025-06-27 15:20:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你不上班吗，天天秒回
+2025-06-27 15:20:16 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：你不上班吗，天天秒回 来自 小团体
+2025-06-27 15:20:16 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:16 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你不上班吗，天天秒回 来自 小团体
+2025-06-27 15:20:16 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:16, 小团体, 刘小贱, 你不上班吗，天天秒回
+2025-06-27 15:20:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 这一周杨梅凸起
+2025-06-27 15:20:19 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：这一周杨梅凸起 来自 小团体
+2025-06-27 15:20:19 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 这一周杨梅凸起 来自 小团体
+2025-06-27 15:20:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:19, 小团体, 心上秋, 这一周杨梅凸起
+2025-06-27 15:20:26 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 一周回一万
+2025-06-27 15:20:26 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：一周回一万 来自 小团体
+2025-06-27 15:20:26 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:26 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 一周回一万 来自 小团体
+2025-06-27 15:20:26 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:26, 小团体, 心上秋, 一周回一万
+2025-06-27 15:20:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 羡慕杨梅
+2025-06-27 15:20:29 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：羡慕杨梅 来自 小团体
+2025-06-27 15:20:29 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:29 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 羡慕杨梅 来自 小团体
+2025-06-27 15:20:29 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:29, 小团体, self, 羡慕杨梅
+2025-06-27 15:20:37 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 感觉又活过来了
+2025-06-27 15:20:37 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：感觉又活过来了 来自 小团体
+2025-06-27 15:20:37 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:37 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 感觉又活过来了 来自 小团体
+2025-06-27 15:20:37 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:37, 小团体, 心上秋, 感觉又活过来了
+2025-06-27 15:20:45 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - V我50
+2025-06-27 15:20:45 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：V我50 来自 小团体
+2025-06-27 15:20:45 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:45 [root] [DEBUG] [ui.py:147]  📨 接收到消息: V我50 来自 小团体
+2025-06-27 15:20:45 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:45, 小团体, self, V我50
+2025-06-27 15:20:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 每次都秒回
+2025-06-27 15:20:55 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：每次都秒回 来自 小团体
+2025-06-27 15:20:55 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:20:55 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 每次都秒回 来自 小团体
+2025-06-27 15:20:55 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:20:55, 小团体, self, 每次都秒回
+2025-06-27 15:21:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 几十万本啊，一周回一万
+2025-06-27 15:21:02 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：几十万本啊，一周回一万 来自 小团体
+2025-06-27 15:21:02 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:02 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 几十万本啊，一周回一万 来自 小团体
+2025-06-27 15:21:02 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:02, 小团体, 刘小贱, 几十万本啊，一周回一万
+2025-06-27 15:21:02 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 你女朋友也做不到吧
+2025-06-27 15:21:02 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：你女朋友也做不到吧 来自 小团体
+2025-06-27 15:21:02 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:02 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你女朋友也做不到吧 来自 小团体
+2025-06-27 15:21:02 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:02, 小团体, self, 你女朋友也做不到吧
+2025-06-27 15:21:07 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [天啊]
+2025-06-27 15:21:07 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[天啊] 来自 小团体
+2025-06-27 15:21:07 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:07 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [天啊] 来自 小团体
+2025-06-27 15:21:07 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:07, 小团体, 刘小贱, [天啊]
+2025-06-27 15:21:14 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:21:14 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:21:14 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:14 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你要做他女朋友吗
+2025-06-27 15:21:14 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:21:14 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:14, 小团体, system, 以下为新消息
+2025-06-27 15:21:14 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：你要做他女朋友吗 来自 小团体
+2025-06-27 15:21:14 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你要做他女朋友吗 来自 小团体
+2025-06-27 15:21:14 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:14 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:14, 小团体, 刘小贱, 你要做他女朋友吗
+2025-06-27 15:21:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 25
+2025-06-27 15:21:24 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：25 来自 小团体
+2025-06-27 15:21:24 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:24 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 25 来自 小团体
+2025-06-27 15:21:24 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:24, 小团体, 心上秋, 25
+2025-06-27 15:21:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:21:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:21:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:21:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 那4%
+2025-06-27 15:21:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:56, 小团体, system, 以下为新消息
+2025-06-27 15:21:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：那4% 来自 小团体
+2025-06-27 15:21:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:21:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 那4% 来自 小团体
+2025-06-27 15:21:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:21:56, 小团体, 刘小贱, 那4%
+2025-06-27 15:22:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 有点实力
+2025-06-27 15:22:01 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：有点实力 来自 小团体
+2025-06-27 15:22:01 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:22:01 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 有点实力 来自 小团体
+2025-06-27 15:22:01 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:22:01, 小团体, 刘小贱, 有点实力
+2025-06-27 15:22:30 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:22:30 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:22:30 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:22:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你怎么不说话了@nuomy 
+2025-06-27 15:22:30 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:22:30 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:22:30, 小团体, system, 以下为新消息
+2025-06-27 15:22:30 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：你怎么不说话了@nuomy  来自 小团体
+2025-06-27 15:22:30 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:22:30 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你怎么不说话了@nuomy  来自 小团体
+2025-06-27 15:22:30 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:22:30, 小团体, 心上秋, 你怎么不说话了@nuomy 
+2025-06-27 15:22:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不是秒回么
+2025-06-27 15:22:35 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：不是秒回么 来自 小团体
+2025-06-27 15:22:35 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 不是秒回么 来自 小团体
+2025-06-27 15:22:35 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:22:35 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:22:35, 小团体, 心上秋, 不是秒回么
+2025-06-27 15:22:49 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 没有50说不了一点
+2025-06-27 15:22:49 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：没有50说不了一点 来自 小团体
+2025-06-27 15:22:49 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:22:49 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 没有50说不了一点 来自 小团体
+2025-06-27 15:22:49 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:22:49, 小团体, self, 没有50说不了一点
+2025-06-27 15:22:52 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:22:52 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:22:52 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:22:52 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:22:52 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:22:52, 小团体, self, [动画表情]
+2025-06-27 15:24:37 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 送我污渍的通行证
+2025-06-27 15:24:37 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：送我污渍的通行证 来自 小团体
+2025-06-27 15:24:37 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 送我污渍的通行证 来自 小团体
+2025-06-27 15:24:37 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:24:37, 小团体, self, 送我污渍的通行证
+2025-06-27 15:24:37 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:24:53 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:24:53 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:24:53 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:24:53 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:24:53 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:24:53, 小团体, self, [动画表情]
+2025-06-27 15:27:05 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:27:05 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:27:05 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:27:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:27:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不熟
+2025-06-27 15:27:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:27:05, 小团体, system, 以下为新消息
+2025-06-27 15:27:05 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：不熟 来自 小团体
+2025-06-27 15:27:05 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:27:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 不熟 来自 小团体
+2025-06-27 15:27:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:27:05, 小团体, 心上秋, 不熟
+2025-06-27 15:27:08 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:27:08 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:27:08 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:27:08 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:27:08 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:27:08, 小团体, 心上秋, [动画表情]
+2025-06-27 15:28:05 [wxauto] [DEBUG] [wx.py:205]  [self image]获取到新消息：小团体 - [图片]
+2025-06-27 15:28:05 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[图片] 来自 小团体
+2025-06-27 15:28:05 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:28:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [图片] 来自 小团体
+2025-06-27 15:28:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:28:05, 小团体, self, [图片]
+2025-06-27 15:30:36 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:30:36 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:30:36 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:30:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-27 15:30:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:30:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:30:36, 小团体, system, 以下为新消息
+2025-06-27 15:30:36 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-27 15:30:36 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:30:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-27 15:30:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:30:36, 小团体, 刘小贱, [动画表情]
+2025-06-27 15:31:20 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 刘小贱
+2025-06-27 15:31:20 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：刘小贱 来自 小团体
+2025-06-27 15:31:20 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:31:20 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 刘小贱 来自 小团体
+2025-06-27 15:31:20 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:31:20, 小团体, self, 刘小贱
+2025-06-27 15:31:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 我大哥叫你晚上上号
+2025-06-27 15:31:34 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：我大哥叫你晚上上号 来自 小团体
+2025-06-27 15:31:34 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:31:34 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 我大哥叫你晚上上号 来自 小团体
+2025-06-27 15:31:34 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:31:34, 小团体, self, 我大哥叫你晚上上号
+2025-06-27 15:32:20 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-27 15:32:20 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-27 15:32:20 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 15:32:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 好的大哥
+2025-06-27 15:32:20 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-27 15:32:20 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 15:32:20, 小团体, system, 以下为新消息
+2025-06-27 15:32:20 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 206, in _get_listen_messages
+    chat.Show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 77, in Show
+    self.core._show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\base.py", line 31, in _show
+    self.control.SwitchToThisWindow()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7032, in SwitchToThisWindow
+    if self.IsTopLevel():
+       ^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6361, in IsTopLevel
+    handle = self.NativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5653, in NativeWindowHandle
+    handle = self.Element.CurrentNativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2146233083, None, (None, None, None, 0, None))
+
+2025-06-27 15:32:22 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听
+2025-06-27 16:25:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-27 16:25:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 16:25:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 16:25:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 下周还是出差
+2025-06-27 16:25:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-27 16:25:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 16:25:56, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-27 16:25:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：下周还是出差 来自 巴啦啦抠脚堡
+2025-06-27 16:25:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 16:25:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 下周还是出差 来自 巴啦啦抠脚堡
+2025-06-27 16:25:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 16:25:56, 巴啦啦抠脚堡, ツ, 下周还是出差
+2025-06-27 16:26:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-27 16:26:01 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 16:26:01 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-27 16:26:01 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-27 16:26:01 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-27 16:26:01, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 13:42:31 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 13:42:31 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 不让看了
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:31, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 13:42:31 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：不让看了 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 不让看了 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：巴啦啦抠脚堡 - 昨天 14:38
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:31, 巴啦啦抠脚堡, ???, 不让看了
+2025-06-29 13:42:31 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：昨天 14:38 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 昨天 14:38 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 就是一个38岁的男的 上了相亲节目  他的vcr 介绍说他学生时期很受学姐学妹喜欢，所以他要找一个长相必须达到他标准的 且性格要好 ，然后呢他有四段恋爱经历 女方就问他 有为对方付出过什么吗 他支支吾吾说不出来 然后又问他这四段恋爱经历因为什么分手了 他说，有因为虽然性格好但是外貌没达到他预期，也有外貌达到了但是双方处不来 所以分手了
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:31, 巴啦啦抠脚堡, base, 昨天 14:38
+2025-06-29 13:42:31 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：就是一个38岁的男的 上了相亲节目  他的vcr 介绍说他学生时期很受学姐学妹喜欢，所以他要找一个长相必须达到他标准的 且性格要好 ，然后呢他有四段恋爱经历 女方就问他 有为对方付出过什么吗 他支支吾吾说不出来 然后又问他这四段恋爱经历因为什么分手了 他说，有因为虽然性格好但是外貌没达到他预期，也有外貌达到了但是双方处不来 所以分手了 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 就是一个38岁的男的 上了相亲节目  他的vcr 介绍说他学生时期很受学姐学妹喜欢，所以他要找一个长相必须达到他标准的 且性格要好 ，然后呢他有四段恋爱经历 女方就问他 有为对方付出过什么吗 他支支吾吾说不出来 然后又问他这四段恋爱经历因为什么分手了 他说，有因为虽然性格好但是外貌没达到他预期，也有外貌达到了但是双方处不来 所以分手了 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:31, 巴啦啦抠脚堡, ツ, 就是一个38岁的男的 上了相亲节目  他的vcr 介绍说他学生时期很受学姐学妹喜欢，所以他要找一个长相必须达到他标准的 且性格要好 ，然后呢他有四段恋爱经历 女方就问他 有为对方付出过什么吗 他支支吾吾说不出来 然后又问他这四段恋爱经历因为什么分手了 他说，有因为虽然性格好但是外貌没达到他预期，也有外貌达到了但是双方处不来 所以分手了
+2025-06-29 13:42:31 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:31 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:31, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 13:42:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, ???, [动画表情]
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：巴啦啦抠脚堡 - 昨天 17:41
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：昨天 17:41 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 昨天 17:41 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 陈老师，今天发的朋友圈的打扮好独特
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, base, 昨天 17:41
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：陈老师，今天发的朋友圈的打扮好独特 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 陈老师，今天发的朋友圈的打扮好独特 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, ツ, 陈老师，今天发的朋友圈的打扮好独特
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 哈哈哈哈惠女服
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：哈哈哈哈惠女服 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 哈哈哈哈惠女服 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, Gesla, 哈哈哈哈惠女服
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 今天什么日子吗
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：今天什么日子吗 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 今天什么日子吗 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, ツ, 今天什么日子吗
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 没有
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：没有 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 没有 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, Gesla, 没有
+2025-06-29 13:42:32 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[图片] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [图片] 来自 巴啦啦抠脚堡
+2025-06-29 13:42:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 哈哈哈哈哈 
+2025-06-29 13:42:32 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:32, 巴啦啦抠脚堡, Gesla, [图片]
+2025-06-29 13:42:33 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：哈哈哈哈哈  来自 巴啦啦抠脚堡
+2025-06-29 13:42:33 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 哈哈哈哈哈  来自 巴啦啦抠脚堡
+2025-06-29 13:42:33 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:33 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:33, 巴啦啦抠脚堡, ツ, 哈哈哈哈哈 
+2025-06-29 13:42:33 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 好有意思
+2025-06-29 13:42:33 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：好有意思 来自 巴啦啦抠脚堡
+2025-06-29 13:42:33 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 13:42:33 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 好有意思 来自 巴啦啦抠脚堡
+2025-06-29 13:42:33 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 13:42:33, 巴啦啦抠脚堡, ツ, 好有意思
+2025-06-29 14:13:32 [root] [INFO] [ui.py:96]  🔁 开启监听
+2025-06-29 14:13:32 [root] [DEBUG] [ui.py:171]  ✅ WorkerThread.run() 方法已进入
+2025-06-29 14:13:32 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-29 14:13:32 [root] [DEBUG] [ui.py:179]  🔔 正在绑定 message_received 信号...
+2025-06-29 14:13:32 [root] [DEBUG] [ui.py:181]  🔔 message_received 信号绑定完成
+2025-06-29 14:13:32 [root] [INFO] [ui.py:185]  👂 正在监听群聊: wxauto测试
+2025-06-29 14:13:32 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-29 14:13:32 [root] [INFO] [ui.py:185]  👂 正在监听群聊: wxauto测试2
+2025-06-29 14:13:32 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-29 14:13:32 [root] [INFO] [ui.py:185]  👂 正在监听群聊: wxauto测试3
+2025-06-29 14:13:32 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-29 14:13:32 [root] [INFO] [ui.py:185]  👂 正在监听群聊: 小团体
+2025-06-29 14:13:32 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-29 14:13:32 [root] [INFO] [ui.py:185]  👂 正在监听群聊: 巴啦啦抠脚堡
+2025-06-29 14:13:32 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-29 14:13:32 [root] [INFO] [ui.py:189]  🔊 开始监听消息
+2025-06-29 14:13:56 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：巴啦啦抠脚堡 - 14:13
+2025-06-29 14:13:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：14:13 来自 巴啦啦抠脚堡
+2025-06-29 14:13:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:13:56 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 14:13 来自 巴啦啦抠脚堡
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 14:13 来自 巴啦啦抠脚堡
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:13:56, 巴啦啦抠脚堡, base, 14:13
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:13:56, 巴啦啦抠脚堡, base, 14:13
+2025-06-29 14:13:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:13:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:13:56, 巴啦啦抠脚堡, self, [动画表情]
+2025-06-29 14:13:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:13:56, 巴啦啦抠脚堡, self, [动画表情]
+2025-06-29 14:14:13 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 14:14:13 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:14:13 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:14:13 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:14:13, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:14:13, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:14:13 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:14:13 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:14:13, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 14:14:13 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:14:13, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 14:14:40 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 干嘛呢
+2025-06-29 14:14:40 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：干嘛呢 来自 巴啦啦抠脚堡
+2025-06-29 14:14:40 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:14:40 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 干嘛呢 来自 巴啦啦抠脚堡
+2025-06-29 14:14:40 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 干嘛呢 来自 巴啦啦抠脚堡
+2025-06-29 14:14:40 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:14:40, 巴啦啦抠脚堡, self, 干嘛呢
+2025-06-29 14:14:40 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:14:40, 巴啦啦抠脚堡, self, 干嘛呢
+2025-06-29 14:15:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 刚运动完吃汉堡呢现在
+2025-06-29 14:15:01 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：刚运动完吃汉堡呢现在 来自 巴啦啦抠脚堡
+2025-06-29 14:15:01 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:15:01 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 刚运动完吃汉堡呢现在 来自 巴啦啦抠脚堡
+2025-06-29 14:15:01 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 刚运动完吃汉堡呢现在 来自 巴啦啦抠脚堡
+2025-06-29 14:15:01 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:01, 巴啦啦抠脚堡, ツ, 刚运动完吃汉堡呢现在
+2025-06-29 14:15:01 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:01, 巴啦啦抠脚堡, ツ, 刚运动完吃汉堡呢现在
+2025-06-29 14:15:04 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 14:15:05 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:15:05 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:15:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:15:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:15:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:05, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 14:15:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:05, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 14:15:23 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 这两个东西是怎么放到一起的
+2025-06-29 14:15:23 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：这两个东西是怎么放到一起的 来自 巴啦啦抠脚堡
+2025-06-29 14:15:23 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:15:23 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 这两个东西是怎么放到一起的 来自 巴啦啦抠脚堡
+2025-06-29 14:15:23 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 这两个东西是怎么放到一起的 来自 巴啦啦抠脚堡
+2025-06-29 14:15:23 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:23, 巴啦啦抠脚堡, self, 这两个东西是怎么放到一起的
+2025-06-29 14:15:23 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:23, 巴啦啦抠脚堡, self, 这两个东西是怎么放到一起的
+2025-06-29 14:15:47 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 14:15:47 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:15:47 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:15:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 麦当劳的双吉 健身后的绝佳
+2025-06-29 14:15:47 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:15:47 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:15:47 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:47, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:15:47 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:47, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:15:48 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：麦当劳的双吉 健身后的绝佳 来自 巴啦啦抠脚堡
+2025-06-29 14:15:48 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:15:48 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 麦当劳的双吉 健身后的绝佳 来自 巴啦啦抠脚堡
+2025-06-29 14:15:48 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 麦当劳的双吉 健身后的绝佳 来自 巴啦啦抠脚堡
+2025-06-29 14:15:48 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:48, 巴啦啦抠脚堡, ツ, 麦当劳的双吉 健身后的绝佳
+2025-06-29 14:15:48 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:48, 巴啦啦抠脚堡, ツ, 麦当劳的双吉 健身后的绝佳
+2025-06-29 14:15:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-29 14:15:51 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:15:51 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:15:51 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:15:51 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 巴啦啦抠脚堡
+2025-06-29 14:15:51 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:51, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 14:15:51 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:51, 巴啦啦抠脚堡, ツ, [动画表情]
+2025-06-29 14:15:59 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 你都练啥
+2025-06-29 14:15:59 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：你都练啥 来自 巴啦啦抠脚堡
+2025-06-29 14:15:59 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你都练啥 来自 巴啦啦抠脚堡
+2025-06-29 14:15:59 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:15:59 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你都练啥 来自 巴啦啦抠脚堡
+2025-06-29 14:15:59 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:59, 巴啦啦抠脚堡, self, 你都练啥
+2025-06-29 14:15:59 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:15:59, 巴啦啦抠脚堡, self, 你都练啥
+2025-06-29 14:16:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 14:16:18 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:18 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 今天练背
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:18, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:18, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 14:16:18 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：今天练背 来自 巴啦啦抠脚堡
+2025-06-29 14:16:18 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 今天练背 来自 巴啦啦抠脚堡
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 今天练背 来自 巴啦啦抠脚堡
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:18, 巴啦啦抠脚堡, ツ, 今天练背
+2025-06-29 14:16:18 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:18, 巴啦啦抠脚堡, ツ, 今天练背
+2025-06-29 14:16:19 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:19 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:19 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 今天练背
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:19, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:19, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:19 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：今天练背 来自 巴啦啦抠脚堡
+2025-06-29 14:16:19 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 今天练背 来自 巴啦啦抠脚堡
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 今天练背 来自 巴啦啦抠脚堡
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:19, 巴啦啦抠脚堡, self, 今天练背
+2025-06-29 14:16:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:19, 巴啦啦抠脚堡, self, 今天练背
+2025-06-29 14:16:29 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 14:16:30 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:30 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 自己练吗
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:30, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:30, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:30 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：自己练吗 来自 巴啦啦抠脚堡
+2025-06-29 14:16:30 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 自己练吗 来自 巴啦啦抠脚堡
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 自己练吗 来自 巴啦啦抠脚堡
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:30, 巴啦啦抠脚堡, ???, 自己练吗
+2025-06-29 14:16:30 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:30, 巴啦啦抠脚堡, ???, 自己练吗
+2025-06-29 14:16:35 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 14:16:35 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:35 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:35, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 看视频？
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:35, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:35 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：看视频？ 来自 巴啦啦抠脚堡
+2025-06-29 14:16:35 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 看视频？ 来自 巴啦啦抠脚堡
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 看视频？ 来自 巴啦啦抠脚堡
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:35, 巴啦啦抠脚堡, ???, 看视频？
+2025-06-29 14:16:35 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:35, 巴啦啦抠脚堡, ???, 看视频？
+2025-06-29 14:16:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 对
+2025-06-29 14:16:41 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：对 来自 巴啦啦抠脚堡
+2025-06-29 14:16:41 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:41 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 对 来自 巴啦啦抠脚堡
+2025-06-29 14:16:41 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 对 来自 巴啦啦抠脚堡
+2025-06-29 14:16:41 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:41, 巴啦啦抠脚堡, ツ, 对
+2025-06-29 14:16:41 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:41, 巴啦啦抠脚堡, ツ, 对
+2025-06-29 14:16:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-29 14:16:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 健身房 只敢在门外看一看
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 巴啦啦抠脚堡
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:57, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:57, 巴啦啦抠脚堡, system, 以下为新消息
+2025-06-29 14:16:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：健身房 只敢在门外看一看 来自 巴啦啦抠脚堡
+2025-06-29 14:16:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 健身房 只敢在门外看一看 来自 巴啦啦抠脚堡
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 健身房 只敢在门外看一看 来自 巴啦啦抠脚堡
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:57, 巴啦啦抠脚堡, ツ, 健身房 只敢在门外看一看
+2025-06-29 14:16:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:16:57, 巴啦啦抠脚堡, ツ, 健身房 只敢在门外看一看
+2025-06-29 14:17:17 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 瑜伽垫
+2025-06-29 14:17:17 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：瑜伽垫 来自 巴啦啦抠脚堡
+2025-06-29 14:17:17 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:17:17 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 瑜伽垫 来自 巴啦啦抠脚堡
+2025-06-29 14:17:17 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 瑜伽垫 来自 巴啦啦抠脚堡
+2025-06-29 14:17:17 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:17:17, 巴啦啦抠脚堡, self, 瑜伽垫
+2025-06-29 14:17:17 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:17:17, 巴啦啦抠脚堡, self, 瑜伽垫
+2025-06-29 14:17:25 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 哑铃
+2025-06-29 14:17:25 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：哑铃 来自 巴啦啦抠脚堡
+2025-06-29 14:17:25 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-29 14:17:25 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 哑铃 来自 巴啦啦抠脚堡
+2025-06-29 14:17:25 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 哑铃 来自 巴啦啦抠脚堡
+2025-06-29 14:17:25 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:17:25, 巴啦啦抠脚堡, self, 哑铃
+2025-06-29 14:17:25 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-29 14:17:25, 巴啦啦抠脚堡, self, 哑铃
+2025-06-29 14:17:29 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-29 14:17:31 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-30 08:45:06 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-30 08:45:06 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-30 08:45:06 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:45:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:06, 小团体, system, 以下为新消息
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:06, 小团体, system, 以下为新消息
+2025-06-30 08:45:06 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：打卡 来自 小团体
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 小团体
+2025-06-30 08:45:06 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:45:06 [WeChatBot] [DEBUG] [main.py:27]  🛠️ 正在执行打卡功能
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 小团体
+2025-06-30 08:45:06 [WeChatBot] [DEBUG] [checkin.py:36]  💾 准备写入打卡记录至: ./data/checkin/checkin_records_小团体.csv
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:06, 小团体, 心上秋, 打卡
+2025-06-30 08:45:06 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:06, 小团体, 心上秋, 打卡
+2025-06-30 08:45:06 [WeChatBot] [INFO] [checkin.py:76]  ✅ 打卡成功: 心上秋, 连续打卡: 1 天
+2025-06-30 08:45:11 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 心上秋 打卡成功！时间：2025-06-30 08:45:06，已连续打卡 1 天
+2025-06-30 08:45:11 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：心上秋 打卡成功！时间：2025-06-30 08:45:06，已连续打卡 1 天 来自 小团体
+2025-06-30 08:45:11 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:45:11 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 心上秋 打卡成功！时间：2025-06-30 08:45:06，已连续打卡 1 天 来自 小团体
+2025-06-30 08:45:11 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 心上秋 打卡成功！时间：2025-06-30 08:45:06，已连续打卡 1 天 来自 小团体
+2025-06-30 08:45:11 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:11, 小团体, self, 心上秋 打卡成功！时间：2025-06-30 08:45:06，已连续打卡 1 天
+2025-06-30 08:45:11 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:11, 小团体, self, 心上秋 打卡成功！时间：2025-06-30 08:45:06，已连续打卡 1 天
+2025-06-30 08:45:19 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-30 08:45:19 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-30 08:45:19 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:45:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 昨天帮我补一下
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:19, 小团体, system, 以下为新消息
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:19, 小团体, system, 以下为新消息
+2025-06-30 08:45:19 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：昨天帮我补一下 来自 小团体
+2025-06-30 08:45:19 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 昨天帮我补一下 来自 小团体
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 昨天帮我补一下 来自 小团体
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:19, 小团体, 心上秋, 昨天帮我补一下
+2025-06-30 08:45:19 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:19, 小团体, 心上秋, 昨天帮我补一下
+2025-06-30 08:45:25 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-30 08:45:25 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-30 08:45:25 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:45:25 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-30 08:45:25 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-30 08:45:25 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:25, 小团体, 心上秋, [动画表情]
+2025-06-30 08:45:25 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:45:25, 小团体, 心上秋, [动画表情]
+2025-06-30 08:46:54 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-30 08:46:54 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-30 08:46:54 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:46:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:46:54, 小团体, system, 以下为新消息
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:46:54, 小团体, system, 以下为新消息
+2025-06-30 08:46:54 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：打卡 来自 小团体
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 小团体
+2025-06-30 08:46:54 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 打卡 来自 小团体
+2025-06-30 08:46:54 [WeChatBot] [DEBUG] [main.py:27]  🛠️ 正在执行打卡功能
+2025-06-30 08:46:54 [WeChatBot] [DEBUG] [checkin.py:36]  💾 准备写入打卡记录至: ./data/checkin/checkin_records_小团体.csv
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:46:54, 小团体, 刘小贱, 打卡
+2025-06-30 08:46:54 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:46:54, 小团体, 刘小贱, 打卡
+2025-06-30 08:46:54 [WeChatBot] [INFO] [checkin.py:76]  ✅ 打卡成功: 刘小贱, 连续打卡: 1 天
+2025-06-30 08:46:57 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 刘小贱 打卡成功！时间：2025-06-30 08:46:54，已连续打卡 1 天
+2025-06-30 08:46:57 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：刘小贱 打卡成功！时间：2025-06-30 08:46:54，已连续打卡 1 天 来自 小团体
+2025-06-30 08:46:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 刘小贱 打卡成功！时间：2025-06-30 08:46:54，已连续打卡 1 天 来自 小团体
+2025-06-30 08:46:57 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:46:57 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 刘小贱 打卡成功！时间：2025-06-30 08:46:54，已连续打卡 1 天 来自 小团体
+2025-06-30 08:46:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:46:57, 小团体, self, 刘小贱 打卡成功！时间：2025-06-30 08:46:54，已连续打卡 1 天
+2025-06-30 08:46:57 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:46:57, 小团体, self, 刘小贱 打卡成功！时间：2025-06-30 08:46:54，已连续打卡 1 天
+2025-06-30 08:53:36 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-30 08:53:36 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：以下为新消息 来自 小团体
+2025-06-30 08:53:36 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:53:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你是不是前天打了
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 以下为新消息 来自 小团体
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:53:36, 小团体, system, 以下为新消息
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:53:36, 小团体, system, 以下为新消息
+2025-06-30 08:53:36 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：你是不是前天打了 来自 小团体
+2025-06-30 08:53:36 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你是不是前天打了 来自 小团体
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 你是不是前天打了 来自 小团体
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:53:36, 小团体, ???, 你是不是前天打了
+2025-06-30 08:53:36 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:53:36, 小团体, ???, 你是不是前天打了
+2025-06-30 08:53:38 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 昨天没打
+2025-06-30 08:53:38 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：昨天没打 来自 小团体
+2025-06-30 08:53:38 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 昨天没打 来自 小团体
+2025-06-30 08:53:38 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:53:38 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 昨天没打 来自 小团体
+2025-06-30 08:53:38 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:53:38, 小团体, ???, 昨天没打
+2025-06-30 08:53:38 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:53:38, 小团体, ???, 昨天没打
+2025-06-30 08:56:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 是
+2025-06-30 08:56:17 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：是 来自 小团体
+2025-06-30 08:56:17 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:56:17 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 是 来自 小团体
+2025-06-30 08:56:17 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 是 来自 小团体
+2025-06-30 08:56:17 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:17, 小团体, 心上秋, 是
+2025-06-30 08:56:17 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:17, 小团体, 心上秋, 是
+2025-06-30 08:56:45 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 没事关系户
+2025-06-30 08:56:45 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：没事关系户 来自 小团体
+2025-06-30 08:56:45 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:56:45 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 没事关系户 来自 小团体
+2025-06-30 08:56:45 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 没事关系户 来自 小团体
+2025-06-30 08:56:45 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:45, 小团体, self, 没事关系户
+2025-06-30 08:56:45 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:45, 小团体, self, 没事关系户
+2025-06-30 08:56:49 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 给你补上
+2025-06-30 08:56:49 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：给你补上 来自 小团体
+2025-06-30 08:56:49 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:56:49 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 给你补上 来自 小团体
+2025-06-30 08:56:49 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 给你补上 来自 小团体
+2025-06-30 08:56:49 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:49, 小团体, self, 给你补上
+2025-06-30 08:56:49 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:49, 小团体, self, 给你补上
+2025-06-30 08:56:56 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 要补几点的
+2025-06-30 08:56:56 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：要补几点的 来自 小团体
+2025-06-30 08:56:56 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:56:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 要补几点的 来自 小团体
+2025-06-30 08:56:56 [root] [DEBUG] [ui.py:147]  📨 接收到消息: 要补几点的 来自 小团体
+2025-06-30 08:56:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:56, 小团体, self, 要补几点的
+2025-06-30 08:56:56 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:56:56, 小团体, self, 要补几点的
+2025-06-30 08:57:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-30 08:57:05 [WeChatBot] [INFO] [main.py:19]  📩 收到消息事件：[动画表情] 来自 小团体
+2025-06-30 08:57:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-30 08:57:05 [WeChatBot] [DEBUG] [main.py:21]  🔔 已触发 message_received.emit()
+2025-06-30 08:57:05 [root] [DEBUG] [ui.py:147]  📨 接收到消息: [动画表情] 来自 小团体
+2025-06-30 08:57:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:57:05, 小团体, self, [动画表情]
+2025-06-30 08:57:05 [root] [DEBUG] [ui.py:116]  📊 正在向表格插入数据: 2025-06-30 08:57:05, 小团体, self, [动画表情]
+2025-06-30 08:58:39 [root] [INFO] [ui.py:105]  🛑 停止监听
+2025-06-30 08:58:39 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-30 08:58:41 [root] [INFO] [ui.py:202]  🧵 线程已退出

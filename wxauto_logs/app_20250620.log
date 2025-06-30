@@ -1,0 +1,1564 @@
+2025-06-20 08:47:57 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 08:47:57 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: ???, False, False, 0.5
+2025-06-20 08:47:58 [wxauto] [DEBUG] [main.py:179]  ??? 切换到聊天窗口: ???
+2025-06-20 08:47:58 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: ???
+2025-06-20 08:47:58 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: ???
+2025-06-20 08:47:59 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-20 08:48:00 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-20 08:48:00 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-20 08:48:01 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-20 08:48:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 08:48:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:48:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 08:48:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:52:41 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 08:52:41 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 08:52:50 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 08:52:50 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:52:50 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 08:52:50 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:52:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 08:52:53 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:53:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 08:53:15 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:53:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 08:53:16 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:53:24 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - [Emm]
+2025-06-20 08:53:25 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:53:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 08:53:32 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:53:38 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 打毛
+2025-06-20 08:53:38 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:53:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 08:53:54 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:54:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打你
+2025-06-20 08:54:00 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:54:07 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 08:54:07 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:54:07 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 08:54:07 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    f.write(msg.info + '\n')
+            ~~~~~~~~~^~~~~~
+TypeError: unsupported operand type(s) for +: 'dict' and 'str'
+
+2025-06-20 08:58:44 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 08:58:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 08:58:53 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 08:58:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 08:58:58 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 08:59:07 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 08:59:07 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 08:59:11 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 08:59:11 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 08:59:09
+2025-06-20 08:59:12 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 39, in on_message
+    if '打卡' in msg.content and not sent_flag:
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 08:59:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 08:59:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 08:59:28 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 刘小贱 打卡成功！时间：2025-06-20 08:59:25
+2025-06-20 08:59:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 39, in on_message
+    if '打卡' in msg.content and not sent_flag:
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 08:59:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 08:59:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 08:59:39 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 吼吼吼
+2025-06-20 08:59:44 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 08:59:51 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 操
+2025-06-20 08:59:57 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 一直弹出来
+2025-06-20 09:00:04 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 什么都会收到？
+2025-06-20 09:00:18 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 是的
+2025-06-20 09:00:18 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 挂掉他收
+2025-06-20 09:11:14 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 09:11:14 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 09:11:29 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:11:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 09:11:29 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 37, in on_message
+    if '打卡' in msg.content and not sent_flag:
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 09:11:41 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:11:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 寄
+2025-06-20 09:32:07 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 09:32:07 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 09:32:17 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:32:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 09:32:24 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:32:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 09:32:24 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 37, in on_message
+    if '打卡' in msg.content and not sent_flag:
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 09:39:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 09:39:12 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 09:39:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:39:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 19, in on_message
+    print("type "+chat.type+" attr "+msg.attr+" info"+msg.info)
+                  ^^^^^^^^^
+AttributeError: 'Chat' object has no attribute 'type'
+
+2025-06-20 09:39:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 09:39:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 19, in on_message
+    print("type "+chat.type+" attr "+msg.attr+" info"+msg.info)
+                  ^^^^^^^^^
+AttributeError: 'Chat' object has no attribute 'type'
+
+2025-06-20 09:40:54 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:40:55 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 19, in on_message
+    print("type "+msg.type+" attr "+msg.attr+" info"+msg.info)
+                  ^^^^^^^^^
+AttributeError: 'Chat' object has no attribute 'type'
+
+2025-06-20 09:40:55 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - @nuomy 说话
+2025-06-20 09:40:55 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 19, in on_message
+    print("type "+msg.type+" attr "+msg.attr+" info"+msg.info)
+                  ^^^^^^^^^
+AttributeError: 'Chat' object has no attribute 'type'
+
+2025-06-20 09:42:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 09:42:11 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 09:42:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:42:18 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 19, in on_message
+    print("type "+msg.type+" attr "+msg.attr+" info"+msg.info)
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 09:42:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 09:42:18 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 19, in on_message
+    print("type "+msg.type+" attr "+msg.attr+" info"+msg.info)
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 09:43:20 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 09:43:21 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 09:43:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 09:43:24 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 18, in on_message
+    print("收到来自 "+chat.who+" 窗口 "+msg.sender+" 的消息："+msg.content+"type "+msg.type+" attr "+msg.attr+" info"+msg.info)
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 09:48:26 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 09:48:26 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 09:48:35 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:48:35 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    print("info"+msg.info)
+          ~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 09:48:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 09:48:35 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    print("info"+msg.info)
+          ~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 09:50:44 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 09:50:45 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    print("info"+msg.info)
+          ~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 09:50:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 测试
+2025-06-20 09:50:45 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    print("info"+msg.info)
+          ~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 09:50:49 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 09:50:49 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 21, in on_message
+    print("info"+msg.info)
+          ~~~~~~^~~~~~~~~
+TypeError: can only concatenate str (not "dict") to str
+
+2025-06-20 10:16:34 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 10:16:34 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-20 10:17:38 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-20 10:17:38 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-20 10:17:43 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-20 10:17:58 [wxauto] [DEBUG] [wx.py:197]  窗口 ??? 已关闭，移除监听
+2025-06-20 10:18:45 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 10:18:45 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 10:18:54 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 10:18:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 10:19:00 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 10:21:36 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 10:21:36 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 10:21:43 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 10:21:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 10:21:48 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 10:23:18 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 10:23:18 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 10:23:22 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 10:23:22 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 10:23:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 10:23:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 10:23:27
+2025-06-20 10:23:29 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 10:23:47 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 10:23:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 10:23:51 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 10:23:52 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 10:23:49
+2025-06-20 10:23:52 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 10:29:31 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 10:29:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 10:29:36 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 10:29:36 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 刘小贱 打卡成功！时间：2025-06-20 10:29:34
+2025-06-20 10:29:36 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 10:55:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 10:55:12 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 10:55:27 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 10:55:27 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 10:55:31 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 47, in on_message
+    reader = csv.reader(f)
+             ^^^
+NameError: name 'csv' is not defined. Did you forget to import 'csv'
+
+2025-06-20 10:55:33 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 10:57:25 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 10:57:25 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 10:57:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 10:57:32 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 67, in on_message
+    writer = csv.writer(f)
+             ^^^
+NameError: name 'csv' is not defined. Did you forget to import 'csv'
+
+2025-06-20 10:57:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 10:57:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 10:57:32
+2025-06-20 10:57:34 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:00:14 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:00:15 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:00:21 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:00:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:00:28 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:00:28 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 11:00:26
+2025-06-20 11:00:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:00:28 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 打卡记录保存失败，请联系管理员
+2025-06-20 11:00:28 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:04:25 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:04:25 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:04:31 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:04:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:04:36 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:05:21 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:05:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:05:25 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:08:10 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:08:10 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:08:16 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:08:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:08:23 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:08:23 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 11:08:21
+2025-06-20 11:08:23 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:09:19 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:09:19 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:09:23 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:09:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:09:27 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 43, in on_message
+    df = pd.read_csv('checkin_records.csv', parse_dates=['checkin_time'])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 161, in __init__
+    self._validate_parse_dates_presence(self.names)  # type: ignore[has-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\base_parser.py", line 243, in _validate_parse_dates_presence
+    raise ValueError(
+ValueError: Missing column provided to 'parse_dates': 'checkin_time'
+
+2025-06-20 11:09:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:11:46 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:11:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 有没有其他操作
+2025-06-20 11:11:55 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 哥们
+2025-06-20 11:12:02 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 打卡都没搞好
+2025-06-20 11:12:02 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:12:06 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 11:18:50 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:18:51 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:19:00 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:19:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:19:05 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 53, in on_message
+    df = pd.read_csv('checkin_records.csv', parse_dates=['checkin_time'])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 161, in __init__
+    self._validate_parse_dates_presence(self.names)  # type: ignore[has-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\base_parser.py", line 243, in _validate_parse_dates_presence
+    raise ValueError(
+ValueError: Missing column provided to 'parse_dates': 'checkin_time'
+
+2025-06-20 11:19:07 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:19:07 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 11:19:05
+2025-06-20 11:19:07 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:30:59 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:31:00 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:31:07 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:31:07 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:31:11 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 43, in on_message
+    df = pd.read_csv(file_path, parse_dates=['checkin_time'])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 161, in __init__
+    self._validate_parse_dates_presence(self.names)  # type: ignore[has-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\base_parser.py", line 243, in _validate_parse_dates_presence
+    raise ValueError(
+ValueError: Missing column provided to 'parse_dates': 'checkin_time'
+
+2025-06-20 11:31:13 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:33:20 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:33:21 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:33:26 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:33:26 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:33:30 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 44, in on_message
+    df = pd.read_csv(file_path, parse_dates=['checkin_time'])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 161, in __init__
+    self._validate_parse_dates_presence(self.names)  # type: ignore[has-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\base_parser.py", line 243, in _validate_parse_dates_presence
+    raise ValueError(
+ValueError: Missing column provided to 'parse_dates': 'checkin_time'
+
+2025-06-20 11:33:32 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 收到
+2025-06-20 11:38:24 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:38:24 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:38:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:38:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:38:31 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 44, in on_message
+    df = pd.read_csv(file_path, parse_dates=['checkin_time'])
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1898, in _make_engine
+    return mapping[engine](f, **self.options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\c_parser_wrapper.py", line 161, in __init__
+    self._validate_parse_dates_presence(self.names)  # type: ignore[has-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\base_parser.py", line 243, in _validate_parse_dates_presence
+    raise ValueError(
+ValueError: Missing column provided to 'parse_dates': 'checkin_time'
+
+2025-06-20 11:40:39 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:40:39 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:40:48 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:40:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:40:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 系统错误，请稍后再试
+2025-06-20 11:40:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 11:40:50
+2025-06-20 11:40:54 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:42:22 [wxauto] [DEBUG] [wx.py:339]  wxauto("nuomy") shutdown
+2025-06-20 11:44:03 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:44:03 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-20 11:44:04 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-20 11:44:04 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-20 11:44:05 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-20 11:44:11 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:44:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:44:17 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 11:44:17 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:44:24 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:44:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - OK
+2025-06-20 11:45:16 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 11:45:16 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 11:45:21 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:45:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:45:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 11:45:23
+2025-06-20 11:45:27 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:45:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:45:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 11:45:34 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:45:42 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:45:42 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - @刘小贱 
+2025-06-20 11:45:49 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 11:45:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 忘记加列名称了
+2025-06-20 11:46:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 没识别到
+2025-06-20 11:46:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 出来打卡
+2025-06-20 11:46:34 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:46:39 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 刘小贱 打卡成功！时间：2025-06-20 11:46:37
+2025-06-20 11:46:39 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:46:42 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:46:46 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 11:46:46 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:46:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 11:46:52 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 11:46:53 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 11:46:59 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 11:47:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 成了！
+2025-06-20 11:47:11 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试 已关闭，移除监听
+2025-06-20 13:11:33 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:11:33 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:11:48 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:11:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 13:11:53 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 13:11:53 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 13:12:02 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:12:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 害搁这打卡呢
+2025-06-20 13:12:13 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 别急
+2025-06-20 13:12:13 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 我搞个
+2025-06-20 13:12:13 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 -  今日已打卡
+2025-06-20 13:12:13 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 13:12:18 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 卧槽不对
+2025-06-20 13:12:30 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 我得加个单独识别
+2025-06-20 13:12:42 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 你一句话里有这两个字他也发疯
+2025-06-20 13:12:49 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - tmd
+2025-06-20 13:12:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 阿狸怎么打卡牌
+2025-06-20 13:13:03 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 13:13:03 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 13:13:07 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 笑死我了
+2025-06-20 13:13:13 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 13:13:26 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 13:13:46 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:13:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 蟑螂恶霸打卡布达有几成胜率
+2025-06-20 13:14:01 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 13:14:02 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 13:14:10 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 13:16:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:16:00 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:16:12 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:16:12 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 蟑螂恶霸打卡布达有几成胜率
+2025-06-20 13:16:28 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 系统错误，请稍后再试
+2025-06-20 13:16:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 13:16:33 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 系统错误，请稍后再试
+2025-06-20 13:17:11 [wxauto] [DEBUG] [wx.py:339]  wxauto("nuomy") shutdown
+2025-06-20 13:18:27 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:18:27 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-20 13:18:28 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-20 13:18:28 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-20 13:18:29 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-20 13:18:37 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 蟑螂恶霸打卡布达有几成胜率
+2025-06-20 13:18:53 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 13:18:50，已连续打卡 3 天
+2025-06-20 13:18:53 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and sent_flag == False:
+                                 ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 13:24:24 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:24:24 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:30:21 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:30:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 蟑螂恶霸打卡布达有几成胜率
+2025-06-20 13:30:36 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:30:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 13:30:41 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 13:30:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 蟑螂恶霸打卡布达有几成胜率
+2025-06-20 13:31:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:31:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 阿狸怎么打卡牌
+2025-06-20 13:47:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:47:11 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:47:19 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:47:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 13:47:24 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 13:49:45 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:49:46 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:49:58 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:49:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 13:50:03 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 系统错误，请稍后再试
+2025-06-20 13:50:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 13:50:26 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-20 13:50:23，已连续打卡 1 天
+2025-06-20 13:52:16 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:52:16 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:52:16 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 小团体, False, False, 0.5
+2025-06-20 13:52:17 [wxauto] [DEBUG] [main.py:179]  小团体 切换到聊天窗口: 小团体
+2025-06-20 13:52:17 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 小团体
+2025-06-20 13:52:17 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 小团体
+2025-06-20 13:53:18 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:53:19 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:53:19 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 13:53:24 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 13:53:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 13:53:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - ??? 打卡成功！时间：2025-06-20 13:53:26，已连续打卡 1 天
+2025-06-20 13:55:27 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:55:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:55:27 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 13:55:27 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-20 13:55:33 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-20 13:55:34 [wxauto] [DEBUG] [sessionbox.py:161]  未找到会话: 巴啦啦抠脚堡
+2025-06-20 13:56:30 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:56:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 13:56:35 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 13:57:52 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 13:57:52 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 13:57:52 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 13:57:52 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 13:57:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 13:57:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-20 13:58:01 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ??? 打卡成功！时间：2025-06-20 13:57:58，已连续打卡 1 天
+2025-06-20 13:58:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:58:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 好了
+2025-06-20 13:58:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 我要去工作了
+2025-06-20 13:58:26 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 不打卡了
+2025-06-20 13:58:31 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 13:58:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 13:58:38 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 13:58:38 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 新朋友自我介绍一下
+2025-06-20 13:58:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 13:59:31 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 我是机器人
+2025-06-20 13:59:44 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 你可以跟我说打卡，我会记录你的打卡数据
+2025-06-20 14:00:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-20 14:00:10 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ツ 打卡成功！时间：2025-06-20 14:00:08，已连续打卡 1 天
+2025-06-20 14:00:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 14:00:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 哈哈哈哈
+2025-06-20 14:00:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 只能打卡，后面再看看怎么加
+2025-06-20 14:00:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:01:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 真机器人啊？
+2025-06-20 14:01:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我还以为都是你发的
+2025-06-20 14:01:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 一个小程序
+2025-06-20 14:01:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 6了
+2025-06-20 14:01:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:02:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 能跟他对话吗
+2025-06-20 14:02:13 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 呼叫机器人
+2025-06-20 14:02:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 不行
+2025-06-20 14:02:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 要对话回头得把ai接进来
+2025-06-20 14:02:42 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:02:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:03:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你只能每天打卡
+2025-06-20 14:03:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 而且得我电脑开着
+2025-06-20 14:03:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 因为还没挂服务器上
+2025-06-20 14:03:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 哈哈哈哈
+2025-06-20 14:03:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 好好好
+2025-06-20 14:03:49 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我每天都打上
+2025-06-20 14:04:06 [wxauto] [DEBUG] [wx.py:205]  [self image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-20 14:04:53 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听
+2025-06-20 14:08:24 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 14:08:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 14:08:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 14:08:37 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 14:08:41 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 14:15:18 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：巴啦啦抠脚堡 - 14:15
+2025-06-20 14:15:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-20 14:15:23 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - Gesla 打卡成功！时间：2025-06-20 14:15:21，已连续打卡 1 天
+2025-06-20 14:46:05 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 14:46:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 猫咪们好棒
+2025-06-20 14:46:11 [wxauto] [DEBUG] [wx.py:205]  [friend other]获取到新消息：巴啦啦抠脚堡 - [音乐]
+2025-06-20 14:46:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 14:46:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:46:42 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 我嘞个去
+2025-06-20 14:47:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 机器人 请文明用语
+2025-06-20 14:47:22 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:47:37 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 这是机器人还是郭总回复啊
+2025-06-20 14:47:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我猜
+2025-06-20 14:47:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 郭总
+2025-06-20 14:48:03 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 你们说的是我老大吗
+2025-06-20 14:48:09 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 他现在正在工作
+2025-06-20 14:48:37 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 14:48:37 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 完蛋了
+2025-06-20 14:48:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 机器人有意识了
+2025-06-20 14:48:52 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:48:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 前一秒 你老大还说
+2025-06-20 14:49:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 不能跟你对话
+2025-06-20 14:49:09 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我明白了
+2025-06-20 14:49:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 怕给你觉醒了
+2025-06-20 14:49:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:50:09 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 我是废物机器人
+2025-06-20 14:50:23 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 你在说什么
+2025-06-20 14:50:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 我听不懂
+2025-06-20 14:51:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 14:51:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 14:52:49 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 14:52:49 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 14:52:53 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 14:55:09 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 14:55:09 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 14:55:09 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 14:55:09 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 14:55:16 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 14:55:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 14:55:21 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-20 14:55:26 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 14:55:30 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 心上秋 打卡成功！时间：2025-06-20 14:55:28，已连续打卡 1 天
+2025-06-20 14:55:45 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 14:55:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 好了废物机器人
+2025-06-20 14:55:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 这个机器人是通用的么
+2025-06-20 14:56:04 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-20 14:56:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 什么意思
+2025-06-20 14:56:16 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 14:56:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 14:56:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 就是，比如说我拉到其他人群里
+2025-06-20 14:56:34 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 他也可以打卡么
+2025-06-20 14:56:43 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 14:56:44 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 14:56:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 可以
+2025-06-20 14:56:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 还是是你写的
+2025-06-20 14:56:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 我写的
+2025-06-20 14:56:55 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 我拉到领导群去
+2025-06-20 14:57:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - emmmm
+2025-06-20 14:57:09 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 14:57:09 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 我指定群聊
+2025-06-20 14:57:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-20 14:57:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 没有所有都添加
+2025-06-20 14:57:33 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 全局就会随便发
+2025-06-20 14:57:42 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 万一别人触发下
+2025-06-20 14:57:49 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-20 14:57:55 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不太行阿
+2025-06-20 14:58:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 泛化性不够
+2025-06-20 14:58:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 【淘宝】限时淘金币抵0.4元 https://e.tb.cn/h.hd0R9doHISt6nFA?tk=6J4yVFUZS5b MF168 「群机器人wx群聊机器人微群智能AI管理社vx群小助手聊天娱乐游戏」
+点击链接直接打开 或者 淘宝搜索直接打开
+2025-06-20 15:00:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-20 15:00:40 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 68, in on_message
+    msg.reply('今日已打卡')
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\msgs\base.py", line 181, in reply
+    return self.parent.send_text(text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 167, in send_text
+    self.sendbtn.Click()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6131, in Click
+    point = self.MoveCursorToInnerPos(x, y, ratioX, ratioY, simulateMove)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6092, in MoveCursorToInnerPos
+    rect = self.BoundingRectangle
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5463, in BoundingRectangle
+    rect = self.Element.CurrentBoundingRectangle
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 117, in on_message
+    msg.reply("系统错误，请稍后再试")
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\msgs\base.py", line 181, in reply
+    return self.parent.send_text(text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 143, in send_text
+    self._show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\base.py", line 31, in _show
+    self.control.SwitchToThisWindow()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7032, in SwitchToThisWindow
+    if self.IsTopLevel():
+       ^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6361, in IsTopLevel
+    handle = self.NativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5653, in NativeWindowHandle
+    handle = self.Element.CurrentNativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+2025-06-20 15:00:40 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 15:00:40 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 206, in _get_listen_messages
+    chat.Show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 77, in Show
+    self.core._show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\base.py", line 31, in _show
+    self.control.SwitchToThisWindow()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7032, in SwitchToThisWindow
+    if self.IsTopLevel():
+       ^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6361, in IsTopLevel
+    handle = self.NativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5653, in NativeWindowHandle
+    handle = self.Element.CurrentNativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+2025-06-20 15:00:42 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 想搞成这样
+2025-06-20 15:00:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 肯定要指定
+2025-06-20 15:00:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不然会乱发
+2025-06-20 15:00:58 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-20 15:05:48 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 15:05:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 15:05:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 15:05:55 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-20 15:05:57 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-20 15:08:20 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 15:08:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 阿狸怎么打卡牌
+2025-06-20 15:08:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 还在骗
+2025-06-20 15:08:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-20 15:09:59 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 15:09:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 蟑螂恶霸打卡布达有几成胜率
+2025-06-20 15:21:13 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 15:21:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 15:21:13 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 15:21:13 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-20 15:21:14 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-20 15:21:14 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-20 15:21:15 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-20 15:21:17 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 203, in _get_listen_messages
+    msgs = chat.GetNewMessage()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 151, in GetNewMessage
+    if (_last_chat := self.ChatInfo().get('chat_name')) != self._last_chat:
+                      ^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 85, in ChatInfo
+    return self.core.chatbox.get_info()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 85, in get_info
+    for chat_name_control, depth in walk:
+                                    ^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7777, in WalkControl
+    child = lastControl.GetNextSiblingControl()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5858, in GetNextSiblingControl
+    ele = _AutomationClient.instance().ViewWalker.GetNextSiblingElement(self.Element)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+2025-06-20 15:21:18 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试 已关闭，移除监听
+2025-06-20 15:21:18 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听
+2025-06-20 15:21:18 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-20 15:22:06 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 15:22:06 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-20 15:22:07 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-20 15:22:07 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-20 15:22:07 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-20 15:22:09 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 小团体, False, False, 0.5
+2025-06-20 15:22:09 [wxauto] [DEBUG] [main.py:179]  小团体 切换到聊天窗口: 小团体
+2025-06-20 15:22:09 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 小团体
+2025-06-20 15:22:10 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 小团体
+2025-06-20 15:22:11 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-20 15:22:12 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-20 15:22:12 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-20 15:22:12 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-20 15:22:30 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 15:22:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 1
+2025-06-20 15:23:43 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 15:23:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 1
+2025-06-20 15:23:53 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：wxauto测试 - 15:23
+2025-06-20 15:23:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 1
+2025-06-20 15:43:22 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 15:43:22 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 15:43:22 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试2, False, False, 0.5
+2025-06-20 15:43:23 [wxauto] [DEBUG] [main.py:179]  wxauto测试2 切换到聊天窗口: wxauto测试2
+2025-06-20 15:43:23 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试2
+2025-06-20 15:43:23 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试2
+2025-06-20 15:43:24 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试3, False, False, 0.5
+2025-06-20 15:43:25 [wxauto] [DEBUG] [main.py:179]  wxauto测试3 切换到聊天窗口: wxauto测试3
+2025-06-20 15:43:25 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试3
+2025-06-20 15:43:26 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试3
+2025-06-20 15:43:27 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 15:43:27 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 15:43:32 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-20 15:43:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-20 15:43:37 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试2 - 系统错误，请稍后再试
+2025-06-20 15:43:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 打卡
+2025-06-20 15:43:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打 卡
+2025-06-20 15:43:49 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 系统错误，请稍后再试
+2025-06-20 15:43:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-20 15:43:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 打卡
+2025-06-20 15:43:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 打卡
+2025-06-20 15:44:01 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：wxauto测试 - 15:43
+2025-06-20 15:44:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-20 15:44:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试2 - ??? 打卡成功！时间：2025-06-20 15:43:53，已连续打卡 1 天
+2025-06-20 15:44:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - ??? 打卡成功！时间：2025-06-20 15:43:56，已连续打卡 1 天
+2025-06-20 15:44:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 刘小贱 打卡成功！时间：2025-06-20 15:43:58，已连续打卡 1 天
+2025-06-20 15:44:07 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-20 15:44:31 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 15:44:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 很好
+2025-06-20 15:44:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 没什么问题
+2025-06-20 15:44:44 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-20 15:44:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - [动画表情]
+2025-06-20 15:45:14 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 15:45:14 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 15:45:20 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-20 15:45:31 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听
+2025-06-20 15:45:49 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试 已关闭，移除监听
+2025-06-20 15:46:26 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 1
+2025-06-20 15:47:48 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-20 15:47:49 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试2 已关闭，移除监听
+2025-06-20 15:47:49 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试3 已关闭，移除监听
+2025-06-20 15:48:43 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 15:48:43 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-20 15:48:44 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-20 15:48:44 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-20 15:48:44 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-20 15:48:46 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试2, False, False, 0.5
+2025-06-20 15:48:46 [wxauto] [DEBUG] [main.py:179]  wxauto测试2 切换到聊天窗口: wxauto测试2
+2025-06-20 15:48:46 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试2
+2025-06-20 15:48:47 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试2
+2025-06-20 15:48:48 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试3, False, False, 0.5
+2025-06-20 15:48:49 [wxauto] [DEBUG] [main.py:179]  wxauto测试3 切换到聊天窗口: wxauto测试3
+2025-06-20 15:48:49 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试3
+2025-06-20 15:48:49 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试3
+2025-06-20 15:48:50 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 小团体, False, False, 0.5
+2025-06-20 15:48:51 [wxauto] [DEBUG] [main.py:179]  小团体 切换到聊天窗口: 小团体
+2025-06-20 15:48:51 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 小团体
+2025-06-20 15:48:52 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 小团体
+2025-06-20 15:48:53 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-20 15:48:54 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-20 15:48:54 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-20 15:48:54 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-20 16:08:29 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 16:08:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 16:08:39 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-20 17:36:27 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 17:36:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 17:36:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 17:36:28 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 17:36:28 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 17:36:28 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 17:36:35 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:36:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 天气
+2025-06-20 17:37:25 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:37:25 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 打卡
+2025-06-20 17:37:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 今日已打卡
+2025-06-20 17:39:41 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 17:39:41 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 17:39:41 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 17:39:42 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 17:39:42 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 17:39:42 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 17:39:46 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:39:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 17:39:58 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 获取天气信息失败，请稍后再试。
+2025-06-20 17:40:35 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:40:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 天气之子
+2025-06-20 17:43:43 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 17:43:43 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 17:43:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 17:43:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 17:43:44 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 17:43:44 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 17:43:51 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:43:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 17:43:56 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 17:44:02 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 天气接口请求失败，请稍后再试。
+2025-06-20 17:44:22 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:44:22 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天気
+2025-06-20 17:44:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 天気
+2025-06-20 17:44:48 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:44:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - [动画表情]
+2025-06-20 17:45:02 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:45:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 泉州天气
+2025-06-20 17:46:05 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 17:46:05 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 17:46:05 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 17:46:06 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 17:46:06 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 17:46:06 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 17:46:10 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:46:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 17:46:15 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 17:46:21 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 天气接口请求失败，请稍后再试。
+2025-06-20 17:49:33 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 17:49:34 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 17:49:34 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 17:49:34 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 17:49:34 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 17:49:35 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 17:49:42 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:49:42 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 17:49:46 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 17:49:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 天气接口请求失败，请稍后再试。
+2025-06-20 17:51:51 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:51:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 17:51:56 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 17:52:00 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 天气接口请求失败，请稍后再试。
+2025-06-20 17:55:12 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 17:55:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 17:55:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 17:55:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 17:55:14 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 17:55:14 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 17:55:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:55:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 17:55:22 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 17:55:30 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 天气接口请求失败，请稍后再试。
+2025-06-20 17:57:10 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:57:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 东园天气
+2025-06-20 17:57:23 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:57:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 深圳天气
+2025-06-20 17:57:31 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:57:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 老公你说句话啊
+2025-06-20 17:57:42 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 滚
+2025-06-20 17:57:58 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 17:57:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - [动画表情]
+2025-06-20 17:58:09 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - [动画表情]
+2025-06-20 18:11:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:11:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-20 18:12:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-20 18:12:53 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 18:12:54 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 18:12:54 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 18:12:54 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 18:12:55 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 18:12:55 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 18:13:09 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:13:09 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 天气
+2025-06-20 18:13:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 厦门天气
+2025-06-20 18:13:19 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 18:13:26 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 天气接口请求失败，请稍后再试。
+2025-06-20 18:17:17 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:17:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-20 18:17:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:17:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我要下班
+2025-06-20 18:17:32 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 今日已打卡
+2025-06-20 18:18:05 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:18:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 18:18:15 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 18:18:25 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:18:25 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 18:18:35 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:18:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 为什么他都不理我
+2025-06-20 18:18:47 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:18:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你再说一遍呢
+2025-06-20 18:19:24 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:19:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 机器人出来
+2025-06-20 18:19:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 18:20:55 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 18:20:55 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 18:20:55 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 18:20:56 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 18:20:56 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 18:20:57 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 18:21:04 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:21:04 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你老大欠我1000万 
+2025-06-20 18:21:18 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：小团体 - 18:21
+2025-06-20 18:21:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 北京天气
+2025-06-20 18:21:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:21:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你代替他赔我
+2025-06-20 18:21:34 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 18:21:43 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【北京天气】
+天气状况：晴
+当前温度：33℃
+体感温度：31℃
+湿度：23%
+风向：西风
+风力等级：3级
+2025-06-20 18:21:57 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:21:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你个小废物
+2025-06-20 18:22:06 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-20 18:23:17 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 18:23:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 毛！
+2025-06-20 18:23:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 18:32:50 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:32:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你个大废物
+2025-06-20 18:33:00 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-20 18:34:53 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 18:34:54 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 18:34:54 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 18:34:55 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 18:34:55 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 18:34:56 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 18:35:09 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 18:35:09 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 北京天气
+2025-06-20 18:36:44 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:36:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你个中废物
+2025-06-20 18:36:57 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - ？
+2025-06-20 18:37:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - cnm
+2025-06-20 18:37:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - ？
+2025-06-20 18:37:24 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-20 18:39:34 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 18:39:34 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 18:39:35 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 18:39:35 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 18:39:35 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 18:39:36 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 18:39:43 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 18:39:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 北京天气
+2025-06-20 18:39:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 🌤【北京天气】
+天气状况：晴
+当前温度：32℃
+体感温度：31℃
+湿度：27%
+风向：西风
+风力等级：3级
+2025-06-20 18:44:50 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:44:50 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - ？
+2025-06-20 18:44:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 6
+2025-06-20 18:48:19 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:48:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 太智能了
+2025-06-20 18:48:28 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 人工智能
+2025-06-20 18:48:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 你懂个屁
+2025-06-20 18:48:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-20 18:49:07 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:49:08 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-20 18:49:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 1000-7＝
+2025-06-20 18:50:20 [wxauto] [DEBUG] [wx.py:205]  [self image]获取到新消息：小团体 - [图片]
+2025-06-20 18:50:46 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 18:50:46 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 18:50:46 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 18:50:47 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 18:50:47 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 18:50:48 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 18:50:59 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:50:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 厦门天气
+2025-06-20 18:51:03 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 18:51:12 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 地理信息查询失败，请稍后再试。
+2025-06-20 18:51:19 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 18:51:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 废物
+2025-06-20 18:51:26 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-20 18:51:26 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 弗雷尔卓德天气
+2025-06-20 18:51:34 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 18:51:38 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - ?
+2025-06-20 18:51:38 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - cnm
+2025-06-20 18:51:38 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 地理信息查询失败，请稍后再试。
+2025-06-20 18:51:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 查这么久
+2025-06-20 18:52:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 算法时间复杂度不过关
+2025-06-20 18:52:20 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 你吃大便
+2025-06-20 19:00:03 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 19:00:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - @nuomy 明天大乐透开什么
+2025-06-20 19:00:55 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 01 04 17 20 22 04 10
+2025-06-20 19:05:36 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 19:05:36 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 19:05:36 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 19:05:37 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 19:05:37 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 19:05:37 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 19:06:00 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 19:06:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 19:06:12 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 获取天气信息失败，请稍后再试。
+2025-06-20 19:11:03 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 19:11:03 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 19:11:03 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 19:11:04 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 19:11:04 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 19:11:04 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 19:11:11 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 19:11:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 19:11:22 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 获取天气信息失败，请稍后再试。
+2025-06-20 19:14:12 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 19:14:12 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 19:14:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 19:14:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 19:14:13 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 19:14:14 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 19:14:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 19:14:28 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 获取天气信息失败，请稍后再试。
+2025-06-20 19:16:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 19:16:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 19:16:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 19:16:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 19:17:00 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 19:17:00 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 19:17:06 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 19:17:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 19:17:17 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 获取天气信息失败，请稍后再试。
+2025-06-20 19:24:42 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 19:24:42 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 19:24:42 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 19:24:43 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 19:24:43 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 19:24:43 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 19:24:47 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 19:24:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 19:24:59 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 获取天气信息失败，请稍后再试。
+2025-06-20 19:26:31 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 19:26:32 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 19:26:32 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 19:26:32 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 19:26:32 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 19:26:33 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 19:26:45 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试3 - 以下为新消息
+2025-06-20 19:26:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 19:26:56 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 获取天气信息失败，请稍后再试。
+2025-06-20 19:32:27 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-20 19:32:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-20 19:32:28 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-20 19:32:28 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-20 19:32:28 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-20 19:32:28 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-20 19:32:32 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：wxauto测试3 - 19:32
+2025-06-20 19:32:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 厦门天气
+2025-06-20 19:32:43 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 🌤【厦门天气】
+天气状况：多云
+当前温度：27℃
+体感温度：27℃
+湿度：83%
+风向：南风
+风力等级：4级
+2025-06-20 19:32:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 北京天气
+2025-06-20 19:32:56 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 🌤【北京天气】
+天气状况：多云
+当前温度：30℃
+体感温度：29℃
+湿度：28%
+风向：东南风
+风力等级：2级
+2025-06-20 19:32:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 上海天气
+2025-06-20 19:33:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 🌤【上海天气】
+天气状况：阴
+当前温度：32℃
+体感温度：36℃
+湿度：55%
+风向：北风
+风力等级：0级
+2025-06-20 19:33:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 石狮天气
+2025-06-20 19:33:14 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 🌤【石狮天气】
+天气状况：晴
+当前温度：28℃
+体感温度：28℃
+湿度：82%
+风向：西南风
+风力等级：4级
+2025-06-20 19:33:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 泉州天气
+2025-06-20 19:33:26 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 🌤【泉州天气】
+天气状况：多云
+当前温度：28℃
+体感温度：28℃
+湿度：82%
+风向：西南风
+风力等级：4级
+2025-06-20 19:33:27 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试3 - 弗雷尔卓德天气
+2025-06-20 19:33:34 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 19:33:38 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试3 - 地理信息查询失败，请稍后再试。
+2025-06-20 19:33:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:33:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 惠安天气
+2025-06-20 19:34:08 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 🌤【惠安天气】
+天气状况：晴
+当前温度：28℃
+体感温度：28℃
+湿度：82%
+风向：西南风
+风力等级：4级
+2025-06-20 19:34:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 杭州天气
+2025-06-20 19:34:20 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 🌤【杭州天气】
+天气状况：阴
+当前温度：30℃
+体感温度：33℃
+湿度：64%
+风向：西南风
+风力等级：1级
+2025-06-20 19:34:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 厦门天气
+2025-06-20 19:34:33 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 🌤【厦门天气】
+天气状况：多云
+当前温度：27℃
+体感温度：27℃
+湿度：83%
+风向：南风
+风力等级：4级
+2025-06-20 19:34:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - (✪ω✪)
+2025-06-20 19:34:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 芜湖
+2025-06-20 19:34:47 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:34:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 下班
+2025-06-20 19:34:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:34:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:35:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 哇
+2025-06-20 19:35:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你们那边好凉快
+2025-06-20 19:35:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 今天有下雨
+2025-06-20 19:35:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 19:35:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 纽约天气
+2025-06-20 19:35:42 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【纽约天气】
+天气状况：Sunny
+当前温度：20℃
+体感温度：17℃
+湿度：58%
+风向：WSW
+风力等级：4级
+2025-06-20 19:35:55 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:35:55 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 关机
+2025-06-20 19:36:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 机器人休息了
+2025-06-20 19:36:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:36:25 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 不行
+2025-06-20 19:36:30 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:36:31 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 机器人得无偿加班
+2025-06-20 19:36:39 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:36:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - @nuomy 出来
+2025-06-20 19:36:57 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-20 19:36:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:37:04 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:37:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 除了天气还有打卡
+2025-06-20 19:37:19 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 19:37:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 还能干啥
+2025-06-20 19:37:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 地理信息查询失败，请稍后再试。
+2025-06-20 19:37:30 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:37:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - emmm
+2025-06-20 19:37:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 卧槽
+2025-06-20 19:37:37 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 有bug
+2025-06-20 19:37:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 哈哈哈哈哈
+2025-06-20 19:37:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 就这俩
+2025-06-20 19:37:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 天气还是下午加的
+2025-06-20 19:38:07 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-20 19:38:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 再想想要加什么
+2025-06-20 19:38:18 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 地理信息查询失败，请稍后再试。
+2025-06-20 19:44:33 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:44:33 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 词语接龙
+2025-06-20 19:44:45 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:45:30 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:45:30 [wxauto] [DEBUG] [wx.py:205]  [friend voice]获取到新消息：巴啦啦抠脚堡 - [语音]5秒,未播放
+2025-06-20 19:45:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你电脑关了吗
+2025-06-20 19:46:04 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:46:04 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 在想怎么识别
+2025-06-20 19:47:07 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-20 19:47:07 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 等等有无选手
+2025-06-20 19:47:14 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打一会
+2025-06-20 19:47:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 他的表情包 都是你喂给它的吗？
+2025-06-20 19:47:38 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 等我下班
+2025-06-20 19:47:44 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 那是人工智能
+2025-06-20 19:47:48 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - ？
+2025-06-20 19:48:01 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-20 19:48:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:48:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - ？？？？
+2025-06-20 19:48:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你是不是可以用它发信息
+2025-06-20 19:48:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 跟那个电影一样
+2025-06-20 19:48:47 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 是的
+2025-06-20 19:48:47 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 我就是那个人工
+2025-06-20 19:48:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - Ai其实是语音客服
+2025-06-20 19:48:57 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-20 19:49:02 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 目前只能打卡和查天气
+2025-06-20 19:56:23 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 19:56:23 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-20 20:01:58 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 20:01:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我去
+2025-06-20 20:02:07 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-20 20:02:07 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 脸那么小

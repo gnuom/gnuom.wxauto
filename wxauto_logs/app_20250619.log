@@ -1,0 +1,301 @@
+2025-06-19 15:13:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 15:33:48 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 15:33:48 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 张三, False, False, 0.5
+2025-06-19 15:33:54 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 张三
+2025-06-19 15:33:54 [wxauto] [DEBUG] [sessionbox.py:161]  未找到会话: 张三
+2025-06-19 15:36:48 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 15:36:49 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: ???, False, False, 0.5
+2025-06-19 15:36:49 [wxauto] [DEBUG] [main.py:179]  ??? 切换到聊天窗口: ???
+2025-06-19 15:36:49 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: ???
+2025-06-19 15:36:49 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: ???
+2025-06-19 15:39:53 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 15:39:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 15:39:59 [wxauto] [DEBUG] [base.py:155]  当前消息无法引用：你好
+2025-06-19 15:41:12 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 15:41:12 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 15:41:25 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 15:41:31 [wxauto] [DEBUG] [base.py:155]  当前消息无法引用：你好
+2025-06-19 15:41:49 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 15:41:49 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 15:41:55 [wxauto] [DEBUG] [base.py:155]  当前消息无法引用：你好
+2025-06-19 15:41:58 [wxauto] [DEBUG] [wx.py:197]  窗口 ??? 已关闭，移除监听
+2025-06-19 15:42:32 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 15:42:32 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: ???, False, False, 0.5
+2025-06-19 15:42:33 [wxauto] [DEBUG] [main.py:179]  ??? 切换到聊天窗口: ???
+2025-06-19 15:42:33 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: ???
+2025-06-19 15:42:33 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: ???
+2025-06-19 15:42:38 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 15:42:44 [wxauto] [DEBUG] [base.py:155]  当前消息无法引用：你好
+2025-06-19 15:43:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 15:44:05 [wxauto] [DEBUG] [base.py:155]  当前消息无法引用：你好
+2025-06-19 15:50:32 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 15:50:32 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 15:50:37 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 203, in _get_listen_messages
+    msgs = chat.GetNewMessage()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 155, in GetNewMessage
+    return self.core.get_new_msgs()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\main.py", line 103, in get_new_msgs
+    return self._get_chatbox().get_new_msgs()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 239, in get_new_msgs
+    or (not self.used_msg_ids and now_msg_ids)
+            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 79, in used_msg_ids
+    return USED_MSG_IDS[self.id]
+                        ^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 73, in id
+    if self.msgbox.Exists(0):
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6023, in Exists
+    control = FindControl(self.searchFromControl, self._CompareFunction, self.searchDepth, False, self.foundIndex)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7903, in FindControl
+    for child, depth in WalkControl(control, findFromSelf, maxDepth):
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7780, in WalkControl
+    child = lastControl.GetFirstChildControl()
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5844, in GetFirstChildControl
+    ele = _AutomationClient.instance().ViewWalker.GetFirstChildElement(self.Element)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2146233083, None, (None, None, None, 0, None))
+
+2025-06-19 15:50:38 [wxauto] [DEBUG] [wx.py:197]  窗口 ??? 已关闭，移除监听
+2025-06-19 15:54:37 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 15:54:37 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: ???, False, False, 0.5
+2025-06-19 15:54:38 [wxauto] [DEBUG] [main.py:179]  ??? 切换到聊天窗口: ???
+2025-06-19 15:54:38 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: ???
+2025-06-19 15:54:38 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: ???
+2025-06-19 15:54:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 15:54:48 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 15:55:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 15:55:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:03:44 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:03:44 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:03:54 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:03:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 签到
+2025-06-19 16:03:59 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:05:29 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:05:29 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:05:34 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:05:34 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 签到
+2025-06-19 16:05:39 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:16:10 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:16:10 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:16:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:16:15 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-19 16:16:20 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:16:21 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:23 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:25 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:31 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:33 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:36 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:16:36 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 47, in on_message
+    msg.reply('打卡成功！时间：')
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\msgs\base.py", line 181, in reply
+    return self.parent.send_text(text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 168, in send_text
+    if not self.editbox.GetValuePattern().Value:
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'Value'
+
+2025-06-19 16:16:37 [wxauto] [DEBUG] [wx.py:197]  窗口 ??? 已关闭，移除监听
+2025-06-19 16:22:54 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:22:54 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: ???, False, False, 0.5
+2025-06-19 16:22:54 [wxauto] [DEBUG] [main.py:179]  ??? 切换到聊天窗口: ???
+2025-06-19 16:22:54 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: ???
+2025-06-19 16:22:55 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: ???
+2025-06-19 16:23:10 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:23:11 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-19 16:23:14 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 34, in on_message
+    print(f'[DEBUG] UTC时间: {datetime.now(datetime.timezone.utc)}')
+                                           ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'timezone'. Did you mean: 'astimezone'?
+
+2025-06-19 16:23:16 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：收到
+2025-06-19 16:23:16 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 34, in on_message
+    print(f'[DEBUG] UTC时间: {datetime.now(datetime.timezone.utc)}')
+                                           ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'timezone'. Did you mean: 'astimezone'?
+
+2025-06-19 16:28:33 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:28:33 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 你好
+2025-06-19 16:28:37 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:38:42 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:38:42 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:39:17 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:39:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 签到
+2025-06-19 16:39:22 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:40:55 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:40:55 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:41:00 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:41:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 签到
+2025-06-19 16:41:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:41:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:41:58 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:42:04 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:42:04 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 签到
+2025-06-19 16:42:09 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:42:56 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:42:56 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:43:00 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:43:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 签到
+2025-06-19 16:43:05 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:44:43 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:44:43 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:44:47 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 16:44:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-19 16:44:50 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 36, in on_message
+    if last_checkin.get(user_id, now - timedelta(hours=24)) < now - timedelta(hours=24):
+                        ^^^^^^^
+UnboundLocalError: cannot access local variable 'user_id' where it is not associated with a value
+
+2025-06-19 16:44:52 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:46:27 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:46:27 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 16:46:32 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-19 16:46:38 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:46:38 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - ??? 打卡成功！时间：2025-06-19 16:46:36
+2025-06-19 16:46:39 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:46:42 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:46:38
+2025-06-19 16:46:43 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:46:44 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:46:39
+2025-06-19 16:46:45 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:46:48 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:46:42
+2025-06-19 16:46:49 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 打卡成功！时间：
+2025-06-19 16:46:50 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 50, in on_message
+    msg.reply('打卡成功！时间：')
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\msgs\base.py", line 181, in reply
+    return self.parent.send_text(text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 151, in send_text
+    if self.editbox.GetValuePattern().Value.replace('￼', '').strip():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'Value'
+
+2025-06-19 16:46:50 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:46:43
+2025-06-19 16:46:50 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 206, in _get_listen_messages
+    chat.Show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 77, in Show
+    self.core._show()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\base.py", line 31, in _show
+    self.control.SwitchToThisWindow()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7032, in SwitchToThisWindow
+    if self.IsTopLevel():
+       ^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6361, in IsTopLevel
+    handle = self.NativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5653, in NativeWindowHandle
+    handle = self.Element.CurrentNativeWindowHandle
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+2025-06-19 16:46:51 [wxauto] [DEBUG] [wx.py:197]  窗口 ??? 已关闭，移除监听
+2025-06-19 16:55:14 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 16:55:14 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: ???, False, False, 0.5
+2025-06-19 16:55:15 [wxauto] [DEBUG] [main.py:179]  ??? 切换到聊天窗口: ???
+2025-06-19 16:55:15 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: ???
+2025-06-19 16:55:15 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: ???
+2025-06-19 16:55:19 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：??? - 16:55
+2025-06-19 16:55:19 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 58, in on_message
+    if now.hour == 0 and now.minute == 0:
+       ^^^
+UnboundLocalError: cannot access local variable 'now' where it is not associated with a value
+
+2025-06-19 16:55:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-19 16:55:25 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 16:55:25 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 58, in on_message
+    if now.hour == 0 and now.minute == 0:
+       ^^^
+UnboundLocalError: cannot access local variable 'now' where it is not associated with a value
+
+2025-06-19 16:55:25 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - ??? 打卡成功！时间：2025-06-19 16:55:23
+2025-06-19 16:55:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:55:25
+2025-06-19 16:55:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:55:27
+2025-06-19 16:55:31 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:55:29
+2025-06-19 16:55:33 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - self 打卡成功！时间：2025-06-19 16:55:31
+2025-06-19 16:55:34 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 50, in on_message
+    msg.reply(f'{user_id} 打卡成功！时间：{checkin_time}')
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\msgs\base.py", line 181, in reply
+    return self.parent.send_text(text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 151, in send_text
+    if self.editbox.GetValuePattern().Value.replace('￼', '').strip():
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'Value'
+
+2025-06-19 16:55:35 [wxauto] [DEBUG] [wx.py:197]  窗口 ??? 已关闭，移除监听
+2025-06-19 17:05:59 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 17:07:51 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 17:08:22 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 18:57:08 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 19:10:10 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 19:10:11 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: ???, False, False, 0.5
+2025-06-19 19:10:11 [wxauto] [DEBUG] [main.py:179]  ??? 切换到聊天窗口: ???
+2025-06-19 19:10:11 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: ???
+2025-06-19 19:10:11 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: ???
+2025-06-19 19:13:44 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 19:13:44 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 19:13:59 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 19:13:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-19 19:14:03 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 35, in on_message
+    if '打卡' in msg.content and not sent_flag:
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-19 19:14:04 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 19:17:21 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-19 19:17:21 [wxauto] [DEBUG] [main.py:175]  ??? 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("???")>
+2025-06-19 19:17:29 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：??? - 以下为新消息
+2025-06-19 19:17:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：??? - 打卡
+2025-06-19 19:17:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - 收到
+2025-06-19 19:17:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：??? - ??? 打卡成功！时间：2025-06-19 19:17:32
+2025-06-19 19:17:34 [wxauto] [DEBUG] [wx.py:54]  监听消息回调发生错误：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 52, in _safe_callback
+    callback(msg, chat)
+  File "D:\4-Project code\wechat_wechaty\bot.py", line 36, in on_message
+    if '打卡' in msg.content and not sent_flag:
+                                     ^^^^^^^^^
+UnboundLocalError: cannot access local variable 'sent_flag' where it is not associated with a value
+
+2025-06-20 07:50:48 [wxauto] [DEBUG] [wx.py:197]  窗口 ??? 已关闭，移除监听
