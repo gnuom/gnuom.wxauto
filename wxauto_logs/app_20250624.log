@@ -1,0 +1,446 @@
+2025-06-24 07:52:56 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 07:52:57 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-24 07:52:58 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-24 07:52:58 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-24 07:53:00 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-24 07:53:01 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试2, False, False, 0.5
+2025-06-24 07:53:03 [wxauto] [DEBUG] [main.py:179]  wxauto测试2 切换到聊天窗口: wxauto测试2
+2025-06-24 07:53:03 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试2
+2025-06-24 07:53:04 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试2
+2025-06-24 07:53:06 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试3, False, False, 0.5
+2025-06-24 07:53:07 [wxauto] [DEBUG] [main.py:179]  wxauto测试3 切换到聊天窗口: wxauto测试3
+2025-06-24 07:53:07 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试3
+2025-06-24 07:53:09 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试3
+2025-06-24 07:53:11 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 小团体, False, False, 0.5
+2025-06-24 07:53:13 [wxauto] [DEBUG] [main.py:179]  小团体 切换到聊天窗口: 小团体
+2025-06-24 07:53:13 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 小团体
+2025-06-24 07:53:14 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 小团体
+2025-06-24 07:53:16 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-24 07:53:17 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-24 07:53:17 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-24 07:53:20 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-24 07:53:53 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-24 07:53:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-24 07:54:02 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ??? 打卡成功！时间：2025-06-24 07:53:55，已连续打卡 3 天
+2025-06-24 07:54:05 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：小团体 - 7:54
+2025-06-24 07:54:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-24 07:54:14 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - ??? 打卡成功！时间：2025-06-24 07:54:07，已连续打卡 3 天
+2025-06-24 07:54:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-24 07:54:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ツ 打卡成功！时间：2025-06-24 07:54:23，已连续打卡 3 天
+2025-06-24 07:54:36 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-24 07:54:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 不对 我应该九点打卡
+2025-06-24 07:54:50 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-24 07:55:11 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 昨天好像把活干的差不多了
+2025-06-24 07:55:17 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 让我再看下怎么改
+2025-06-24 07:59:41 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-24 07:59:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-24 07:59:47 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - Gesla 打卡成功！时间：2025-06-24 07:59:43，已连续打卡 3 天
+2025-06-24 08:05:29 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 08:05:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-24 08:05:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡打卡打卡
+2025-06-24 08:05:41 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 心上秋 打卡成功！时间：2025-06-24 08:05:31，已连续打卡 5 天
+2025-06-24 08:05:53 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-24 08:05:57 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 别急
+2025-06-24 08:11:43 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 08:11:43 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-24 08:11:50 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 今日已打卡
+2025-06-24 08:12:04 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 08:12:04 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 嗯？
+2025-06-24 08:12:46 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 08:12:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 你昨天打卡没上线
+2025-06-24 08:13:09 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 08:13:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 今天上线当今天的记了
+2025-06-24 08:13:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-24 09:18:14 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 09:18:14 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 网易真的司马了
+2025-06-24 09:18:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 战网要绑定网易账号，我现在炉石也登不上去了
+2025-06-24 09:18:42 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 是吧是吧
+2025-06-24 10:17:59 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 10:17:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 那你再弄个网易账号，也能上吧？
+2025-06-24 10:18:17 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-24 10:18:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 不过网易确实司马
+2025-06-24 10:18:34 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听
+2025-06-24 10:21:41 [wxauto] [DEBUG] [wx.py:339]  wxauto("nuomy") shutdown
+2025-06-24 15:10:25 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 15:10:26 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 15:10:26 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 15:10:26 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 15:10:26 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 15:10:26 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 15:11:08 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-24 15:11:08 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 1
+2025-06-24 15:13:18 [wxauto] [DEBUG] [wx.py:339]  wxauto("nuomy") shutdown
+2025-06-24 15:36:08 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 15:36:09 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 15:36:09 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 15:36:09 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 15:36:09 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 15:36:09 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 15:36:23 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-24 15:36:23 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 天气
+2025-06-24 15:36:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 请输入城市名，例如“厦门天气”请输入城市名，例如“厦门天气”
+2025-06-24 15:51:25 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 15:51:25 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-24 15:51:30 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试2 - ??? 打卡成功！时间：2025-06-24 15:51:27，已连续打卡 1 天??? 打卡成功！时间：2025-06-24 15:51:27，已连续打卡 1 天
+2025-06-24 15:51:40 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 15:51:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-24 15:51:45 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试2 - 今日已打卡今日已打卡
+2025-06-24 15:54:18 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 15:54:18 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 15:54:18 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 15:54:18 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 15:54:18 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 15:54:18 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 15:58:07 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 15:58:07 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 15:58:07 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 15:58:07 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 15:58:07 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 15:58:07 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 16:04:58 [wxauto] [DEBUG] [msg.py:79]  content: ？, length: 10
+2025-06-24 16:04:58 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-24 16:04:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - ？
+2025-06-24 16:15:05 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试 已关闭，移除监听
+2025-06-24 16:15:05 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试2 已关闭，移除监听
+2025-06-24 16:15:06 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试3 已关闭，移除监听
+2025-06-24 16:15:06 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听
+2025-06-24 16:15:06 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-24 17:26:27 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:26:27 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试, False, False, 0.5
+2025-06-24 17:26:28 [wxauto] [DEBUG] [main.py:179]  wxauto测试 切换到聊天窗口: wxauto测试
+2025-06-24 17:26:28 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试
+2025-06-24 17:26:28 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试
+2025-06-24 17:26:29 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试2, False, False, 0.5
+2025-06-24 17:26:30 [wxauto] [DEBUG] [main.py:179]  wxauto测试2 切换到聊天窗口: wxauto测试2
+2025-06-24 17:26:30 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试2
+2025-06-24 17:26:31 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试2
+2025-06-24 17:26:32 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试3, False, False, 0.5
+2025-06-24 17:26:32 [wxauto] [DEBUG] [main.py:179]  wxauto测试3 切换到聊天窗口: wxauto测试3
+2025-06-24 17:26:32 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试3
+2025-06-24 17:26:33 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试3
+2025-06-24 17:26:34 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 小团体, False, False, 0.5
+2025-06-24 17:26:35 [wxauto] [DEBUG] [main.py:179]  小团体 切换到聊天窗口: 小团体
+2025-06-24 17:26:35 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 小团体
+2025-06-24 17:26:36 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 小团体
+2025-06-24 17:26:37 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-24 17:26:38 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-24 17:26:38 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-24 17:26:38 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-24 17:29:27 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:29:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:29:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:29:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:29:27 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:29:27 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:29:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:29:58 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:29:58 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:29:58 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:29:58 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:29:58 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:34:08 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:34:08 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:34:08 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:34:08 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:34:08 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:34:08 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:38:05 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:38:05 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:38:05 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:38:05 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:38:05 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:38:05 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:38:22 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-24 17:38:22 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 111
+2025-06-24 17:39:11 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:39:11 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:39:11 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:39:11 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:39:11 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:39:11 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:39:15 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-24 17:39:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-24 17:39:21 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - ??? 打卡成功！时间：2025-06-24 17:39:18，已连续打卡 1 天
+2025-06-24 17:43:16 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:43:17 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:43:17 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:43:17 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:43:17 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:43:17 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:44:14 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:44:14 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:44:14 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:44:14 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:44:14 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:44:14 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:44:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-24 17:44:40 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-24 17:44:43 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-24 17:44:45 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 刘小贱 打卡成功！时间：2025-06-24 17:44:42，已连续打卡 1 天
+2025-06-24 17:50:08 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 17:50:09 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 17:50:09 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 17:50:09 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 17:50:09 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 17:50:09 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 17:50:12 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 11
+2025-06-24 18:17:59 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 18:17:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 18:17:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 18:17:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 18:17:59 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 18:17:59 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 18:18:05 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-24 18:18:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 11
+2025-06-24 18:30:44 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 18:30:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 18:30:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 18:30:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 18:30:44 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 18:30:44 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 18:30:58 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试 - 以下为新消息
+2025-06-24 18:30:58 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试 - 打卡
+2025-06-24 18:31:04 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试 - 今日已打卡
+2025-06-24 18:41:34 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 18:41:34 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 18:41:34 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 18:41:34 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 18:41:34 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 18:41:34 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 18:56:38 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 18:56:38 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 18:56:38 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 18:56:38 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 18:56:38 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 18:56:38 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:00:44 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:00:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:00:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:00:44 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:00:44 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:00:44 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:00:51 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:00:52 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 1
+2025-06-24 19:00:58 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:00:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 0
+2025-06-24 19:02:24 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:02:25 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:02:25 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:02:25 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:02:25 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:02:25 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:02:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 111
+2025-06-24 19:02:29 [WeChatBot] [INFO] [main.py:50]  收到来自 wxauto测试2 窗口 ??? 的消息: 111
+2025-06-24 19:02:46 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:02:46 [WeChatBot] [INFO] [main.py:50]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:02:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-24 19:02:46 [WeChatBot] [INFO] [main.py:50]  收到来自 wxauto测试2 窗口 ??? 的消息: 打卡
+2025-06-24 19:04:35 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:04:35 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:04:35 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:04:35 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:04:35 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:04:35 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:04:41 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:04:41 [WeChatBot] [INFO] [main.py:50]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:04:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-24 19:04:41 [WeChatBot] [INFO] [main.py:50]  收到来自 wxauto测试2 窗口 ??? 的消息: 打卡
+2025-06-24 19:04:49 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 203, in _get_listen_messages
+    msgs = chat.GetNewMessage()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 155, in GetNewMessage
+    return self.core.get_new_msgs()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\main.py", line 103, in get_new_msgs
+    return self._get_chatbox().get_new_msgs()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 233, in get_new_msgs
+    if not self.msgbox.Exists(0):
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6023, in Exists
+    control = FindControl(self.searchFromControl, self._CompareFunction, self.searchDepth, False, self.foundIndex)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7905, in FindControl
+    if compare(child, depth):
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5976, in _CompareFunction
+    if value != control.Name:
+                ^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5644, in Name
+    return self.Element.CurrentName or ''   # CurrentName may be None
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2147220991, '事件无法调用任何订户', (None, None, None, 0, None))
+
+2025-06-24 19:04:51 [wxauto] [DEBUG] [wx.py:197]  窗口 wxauto测试2 已关闭，移除监听
+2025-06-24 19:08:16 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:08:16 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:08:16 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:08:16 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: wxauto测试2, False, False, 0.5
+2025-06-24 19:08:17 [wxauto] [DEBUG] [main.py:179]  wxauto测试2 切换到聊天窗口: wxauto测试2
+2025-06-24 19:08:17 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: wxauto测试2
+2025-06-24 19:08:18 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: wxauto测试2
+2025-06-24 19:08:19 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:08:19 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:08:19 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:08:19 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:08:19 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:08:19 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:08:19 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:08:23 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:08:24 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:08:24 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 以下为新消息, 类型: <class 'wxauto.msgs.attr.SystemMessage'>
+2025-06-24 19:08:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - ？
+2025-06-24 19:08:24 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: ？
+2025-06-24 19:08:24 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: ？, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:08:34 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:08:34 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:08:34 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 以下为新消息, 类型: <class 'wxauto.msgs.attr.SystemMessage'>
+2025-06-24 19:08:34 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-24 19:08:34 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: 打卡
+2025-06-24 19:08:34 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 打卡, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:08:37 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试2 - ??? 打卡成功！时间：2025-06-24 19:08:34，已连续打卡 1 天
+2025-06-24 19:08:37 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 self 的消息: ??? 打卡成功！时间：2025-06-24 19:08:34，已连续打卡 1 天
+2025-06-24 19:08:37 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: ??? 打卡成功！时间：2025-06-24 19:08:34，已连续打卡 1 天, 类型: <class 'wxauto.msgs.self.SelfTextMessage'>
+2025-06-24 19:10:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:10:58 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:10:58 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:10:58 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:10:58 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:10:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:10:59 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:10:59 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:10:59 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:10:59 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:10:59 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:11:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 1
+2025-06-24 19:11:03 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: 1
+2025-06-24 19:11:03 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 1, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:11:10 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:11:10 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:11:10 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 以下为新消息, 类型: <class 'wxauto.msgs.attr.SystemMessage'>
+2025-06-24 19:11:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 22222
+2025-06-24 19:11:10 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: 22222
+2025-06-24 19:11:10 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 22222, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:11:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 你
+2025-06-24 19:11:17 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: 你
+2025-06-24 19:11:17 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 你, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:11:33 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:11:33 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:11:33 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 以下为新消息, 类型: <class 'wxauto.msgs.attr.SystemMessage'>
+2025-06-24 19:11:33 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 你
+2025-06-24 19:11:33 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 刘小贱 的消息: 你
+2025-06-24 19:11:33 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 你, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:12:12 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:12:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:12:13 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:12:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:12:13 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:12:13 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:12:13 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:12:13 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:12:13 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:12:13 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:12:13 [root] [DEBUG] [ui.py:84]  开始监听群聊
+2025-06-24 19:12:19 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:12:19 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:12:19 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 以下为新消息, 类型: <class 'wxauto.msgs.attr.SystemMessage'>
+2025-06-24 19:12:19 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 他
+2025-06-24 19:12:19 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: 他
+2025-06-24 19:12:19 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 他, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:19:10 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:19:10 [root] [DEBUG] [ui.py:82]  ✅ 信号绑定完成
+2025-06-24 19:19:10 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:19:11 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:19:11 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:19:11 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:19:11 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:19:11 [root] [INFO] [ui.py:88]  ✅ 开始监听群聊
+2025-06-24 19:20:02 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:20:03 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:20:03 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 以下为新消息, 类型: <class 'wxauto.msgs.attr.SystemMessage'>
+2025-06-24 19:20:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 111
+2025-06-24 19:20:03 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: 111
+2025-06-24 19:20:03 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 111, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:21:36 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:21:36 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 system 的消息: 以下为新消息
+2025-06-24 19:21:36 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 以下为新消息, 类型: <class 'wxauto.msgs.attr.SystemMessage'>
+2025-06-24 19:21:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-24 19:21:36 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 ??? 的消息: 打卡
+2025-06-24 19:21:36 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 打卡, 类型: <class 'wxauto.msgs.friend.FriendTextMessage'>
+2025-06-24 19:21:40 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试2 - 今日已打卡
+2025-06-24 19:21:40 [WeChatBot] [INFO] [main.py:18]  收到来自 wxauto测试2 窗口 self 的消息: 今日已打卡
+2025-06-24 19:21:40 [WeChatBot] [DEBUG] [main.py:19]  收到消息内容: 今日已打卡, 类型: <class 'wxauto.msgs.self.SelfTextMessage'>
+2025-06-24 19:27:22 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:27:22 [root] [DEBUG] [ui.py:83]  ✅ 信号绑定完成
+2025-06-24 19:27:22 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:27:22 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:27:22 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:27:22 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:27:22 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:27:22 [root] [INFO] [ui.py:89]  ✅ 开始监听群聊
+2025-06-24 19:27:30 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:27:30 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：以下为新消息 来自 wxauto测试2
+2025-06-24 19:27:30 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()
+2025-06-24 19:27:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 打卡
+2025-06-24 19:27:30 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：打卡 来自 wxauto测试2
+2025-06-24 19:27:30 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()
+2025-06-24 19:27:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：wxauto测试2 - 今日已打卡
+2025-06-24 19:27:34 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：今日已打卡 来自 wxauto测试2
+2025-06-24 19:27:34 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()
+2025-06-24 19:34:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:34:58 [root] [DEBUG] [ui.py:82]  🔔 已绑定 message_received 信号
+2025-06-24 19:34:58 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试
+2025-06-24 19:34:58 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:34:58 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试2
+2025-06-24 19:34:58 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:34:58 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试3
+2025-06-24 19:34:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:34:59 [root] [INFO] [ui.py:86]  👂 正在监听群聊: 小团体
+2025-06-24 19:34:59 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:34:59 [root] [INFO] [ui.py:86]  👂 正在监听群聊: 巴啦啦抠脚堡
+2025-06-24 19:34:59 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:34:59 [root] [INFO] [ui.py:89]  🔁 开始保持运行...
+2025-06-24 19:35:12 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:35:12 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：以下为新消息 来自 wxauto测试2
+2025-06-24 19:35:12 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()
+2025-06-24 19:35:12 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 1
+2025-06-24 19:35:12 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：1 来自 wxauto测试2
+2025-06-24 19:35:12 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()
+2025-06-24 19:37:54 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:37:54 [root] [DEBUG] [ui.py:82]  🔔 已绑定 message_received 信号
+2025-06-24 19:37:54 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试
+2025-06-24 19:37:54 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:37:54 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试2
+2025-06-24 19:37:55 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:37:55 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试3
+2025-06-24 19:37:55 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:37:55 [root] [INFO] [ui.py:86]  👂 正在监听群聊: 小团体
+2025-06-24 19:37:55 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:37:55 [root] [INFO] [ui.py:86]  👂 正在监听群聊: 巴啦啦抠脚堡
+2025-06-24 19:37:55 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:37:55 [root] [INFO] [ui.py:89]  🔁 开始保持运行...
+2025-06-24 19:38:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 1
+2025-06-24 19:38:01 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：1 来自 wxauto测试2
+2025-06-24 19:38:01 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()
+2025-06-24 19:44:26 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-24 19:44:26 [root] [DEBUG] [ui.py:82]  🔔 已绑定 message_received 信号
+2025-06-24 19:44:26 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试
+2025-06-24 19:44:26 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-24 19:44:26 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试2
+2025-06-24 19:44:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-24 19:44:27 [root] [INFO] [ui.py:86]  👂 正在监听群聊: wxauto测试3
+2025-06-24 19:44:27 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-24 19:44:27 [root] [INFO] [ui.py:86]  👂 正在监听群聊: 小团体
+2025-06-24 19:44:27 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-24 19:44:27 [root] [INFO] [ui.py:86]  👂 正在监听群聊: 巴啦啦抠脚堡
+2025-06-24 19:44:27 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-24 19:44:27 [root] [INFO] [ui.py:89]  🔁 开始保持运行...
+2025-06-24 19:45:47 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：wxauto测试2 - 以下为新消息
+2025-06-24 19:45:47 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：以下为新消息 来自 wxauto测试2
+2025-06-24 19:45:47 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()
+2025-06-24 19:45:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：wxauto测试2 - 1
+2025-06-24 19:45:47 [WeChatBot] [INFO] [main.py:18]  📩 收到消息事件：1 来自 wxauto测试2
+2025-06-24 19:45:47 [WeChatBot] [DEBUG] [main.py:20]  🔔 已触发 message_received.emit()

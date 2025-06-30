@@ -1,0 +1,218 @@
+2025-06-22 14:22:58 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-22 14:22:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-22 14:22:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-22 14:22:59 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-22 14:22:59 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-22 14:22:59 [wxauto] [DEBUG] [main.py:175]  巴啦啦抠脚堡 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("巴啦啦抠脚堡")>
+2025-06-22 14:23:08 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 没动静呀机器人
+2025-06-22 14:23:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:23:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-22 14:23:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - emmmm
+2025-06-22 14:23:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-22 14:23:38 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:23:38 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 坏掉了
+2025-06-22 14:23:41 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-22 14:23:47 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ??? 打卡成功！时间：2025-06-22 14:23:32，已连续打卡 1 天
+2025-06-22 14:23:50 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - @nuomy 
+2025-06-22 14:24:00 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:24:00 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 有点卡这个东西
+2025-06-22 14:24:10 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 周末不上班 断我们的打卡！机器人坏！
+2025-06-22 14:24:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-22 14:24:33 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 打卡
+2025-06-22 14:24:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 杭州天气
+2025-06-22 14:24:41 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - Gesla 打卡成功！时间：2025-06-22 14:24:30，已连续打卡 1 天
+2025-06-22 14:24:44 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - ツ 打卡成功！时间：2025-06-22 14:24:35，已连续打卡 1 天
+2025-06-22 14:24:44 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 🌤【杭州天气】
+天气状况：小雨
+当前温度：24℃
+体感温度：27℃
+湿度：94%
+风向：东南风
+风力等级：1级
+2025-06-22 14:24:53 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:24:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-22 14:25:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 好卡
+2025-06-22 14:25:13 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你的速度我不满意
+2025-06-22 14:25:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - @nuomy 
+2025-06-22 14:25:31 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-22 14:25:56 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:25:56 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 想吃鼻屎？
+2025-06-22 14:26:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-22 14:26:14 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 14:26:14 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-22 14:26:22 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - ??? 打卡成功！时间：2025-06-22 14:26:16，已连续打卡 1 天
+2025-06-22 14:27:21 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - [动画表情]
+2025-06-22 14:27:27 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 上班
+2025-06-22 14:27:55 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:27:55 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-22 14:28:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 上班必备
+2025-06-22 14:28:36 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:28:36 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 这么辛苦啊
+2025-06-22 14:28:44 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 周日还上班
+2025-06-22 14:29:03 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 少年宫
+2025-06-22 14:29:24 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 陈老师上这个爽得很
+2025-06-22 14:29:27 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 你每周日都要去？
+2025-06-22 14:29:42 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：巴啦啦抠脚堡 - 又有钱又有闲
+2025-06-22 14:30:09 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:30:09 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 我俩没钱很闲？
+2025-06-22 14:31:06 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:31:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 对 最后两次了
+2025-06-22 14:31:16 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：巴啦啦抠脚堡 - 以下为新消息
+2025-06-22 14:31:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 下周上完就没了
+2025-06-22 14:31:26 [wxauto] [DEBUG] [wx.py:205]  [friend image]获取到新消息：巴啦啦抠脚堡 - [图片]
+2025-06-22 14:31:33 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 不另外加糖 还是好甜
+2025-06-22 14:31:46 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：巴啦啦抠脚堡 - 这就是西瓜椰子的双重魔力吧
+2025-06-22 14:32:02 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-22 14:47:24 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 14:47:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-22 14:47:29 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 心上秋 打卡成功！时间：2025-06-22 14:47:26，已连续打卡 1 天
+2025-06-22 14:47:50 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 我改下后台数据
+2025-06-22 14:47:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 昨天的给你算进去
+2025-06-22 14:48:02 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 卡面来打
+2025-06-22 14:48:17 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 14:48:17 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 打卡
+2025-06-22 14:48:23 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 刘小贱 打卡成功！时间：2025-06-22 14:48:20，已连续打卡 1 天
+2025-06-22 14:51:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-22 14:53:50 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 14:53:50 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 泉州东园天气
+2025-06-22 14:54:00 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【泉州东园天气】
+天气状况：多云
+当前温度：33℃
+体感温度：34℃
+湿度：64%
+风向：南风
+风力等级：4级
+2025-06-22 15:04:25 [wxauto] [DEBUG] [wx.py:205]  [base other]获取到新消息：小团体 - 15:04
+2025-06-22 15:04:25 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 德玛西亚天气
+2025-06-22 15:04:35 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【德玛西亚天气】
+天气状况：Soleado
+当前温度：24℃
+体感温度：25℃
+湿度：80%
+风向：NW
+风力等级：2级
+2025-06-22 15:04:41 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-22 15:08:50 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 15:08:50 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 圣地玛丽乔亚天气
+2025-06-22 15:09:01 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【圣地玛丽乔亚天气】
+天气状况：Nublado
+当前温度：25℃
+体感温度：27℃
+湿度：88%
+风向：NE
+风力等级：2级
+2025-06-22 15:09:14 [wxauto] [DEBUG] [wx.py:339]  wxauto("nuomy") shutdown
+2025-06-22 15:09:23 [wxauto] [DEBUG] [wx.py:31]  开始监听
+2025-06-22 15:09:23 [wxauto] [DEBUG] [main.py:175]  wxauto测试 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试")>
+2025-06-22 15:09:23 [wxauto] [DEBUG] [main.py:175]  wxauto测试2 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试2")>
+2025-06-22 15:09:23 [wxauto] [DEBUG] [main.py:175]  wxauto测试3 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("wxauto测试3")>
+2025-06-22 15:09:24 [wxauto] [DEBUG] [main.py:175]  小团体 获取到已存在的子窗口: <wxauto - WeChatSubWnd object("小团体")>
+2025-06-22 15:09:24 [wxauto] [DEBUG] [sessionbox.py:63]  切换聊天窗口: 巴啦啦抠脚堡, False, False, 0.5
+2025-06-22 15:09:26 [wxauto] [DEBUG] [main.py:179]  巴啦啦抠脚堡 切换到聊天窗口: 巴啦啦抠脚堡
+2025-06-22 15:09:26 [wxauto] [DEBUG] [sessionbox.py:147]  打开独立窗口: 巴啦啦抠脚堡
+2025-06-22 15:09:27 [wxauto] [DEBUG] [sessionbox.py:151]  找到会话: 巴啦啦抠脚堡
+2025-06-22 15:09:36 [wxauto] [DEBUG] [wx.py:197]  窗口 巴啦啦抠脚堡 已关闭，移除监听
+2025-06-22 16:27:53 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 16:27:53 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 帕拉迪岛天气
+2025-06-22 16:28:00 [charset_normalizer] [DEBUG] [api.py:461]  Encoding detection: ascii is most likely the one.
+2025-06-22 16:28:06 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 地理信息查询失败，请稍后再试。
+2025-06-22 16:28:17 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-22 16:28:29 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 16:28:29 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-22 16:28:39 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-22 16:29:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-22 16:52:45 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 16:52:45 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 厦门天气
+2025-06-22 16:52:54 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【厦门天气】
+天气状况：多云
+当前温度：30℃
+体感温度：31℃
+湿度：73%
+风向：南风
+风力等级：3级
+2025-06-22 16:52:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 海沧天气
+2025-06-22 16:53:03 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【海沧天气】
+天气状况：多云
+当前温度：30℃
+体感温度：31℃
+湿度：73%
+风向：南风
+风力等级：3级
+2025-06-22 16:53:06 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 集美天气
+2025-06-22 16:53:15 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - 🌤【集美天气】
+天气状况：多云
+当前温度：30℃
+体感温度：31℃
+湿度：73%
+风向：南风
+风力等级：3级
+2025-06-22 16:53:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 废物
+2025-06-22 16:53:24 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 16:53:24 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-22 16:53:34 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - [动画表情]
+2025-06-22 19:20:28 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:20:28 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - @nuomy 
+2025-06-22 19:20:38 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:20:38 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 叫大家上号
+2025-06-22 19:20:46 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - @所有人 上号
+2025-06-22 19:21:18 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:21:18 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 怎么还没来@nuomy 
+2025-06-22 19:21:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 急急急
+2025-06-22 19:21:42 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - @所有人 急急急，速速上号
+2025-06-22 19:22:01 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:22:01 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 上班捏
+2025-06-22 19:22:57 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:22:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 为啥这个@所有人我没收到的
+2025-06-22 19:23:14 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 11
+2025-06-22 19:23:16 [wxauto] [DEBUG] [wx.py:205]  [self text]获取到新消息：小团体 - @xbfe @刘小贱 @心上秋 @??? 速速上号
+2025-06-22 19:23:20 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 我也没收到
+2025-06-22 19:23:30 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 这个有了
+2025-06-22 19:23:34 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:23:34 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - @??? 上什么班
+2025-06-22 19:23:47 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 这不
+2025-06-22 19:23:49 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 搞这个东西
+2025-06-22 19:23:54 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 活没干完
+2025-06-22 19:23:59 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 在加班
+2025-06-22 19:24:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-22 19:24:16 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:24:16 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 还要加多久
+2025-06-22 19:24:27 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:24:27 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 两个小时吧
+2025-06-22 19:24:35 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 干不完就不干了
+2025-06-22 19:27:51 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:27:51 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 干不完不许玩游戏
+2025-06-22 19:28:05 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-22 19:28:21 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:28:21 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - [动画表情]
+2025-06-22 19:28:57 [wxauto] [DEBUG] [wx.py:205]  [system base]获取到新消息：小团体 - 以下为新消息
+2025-06-22 19:28:57 [wxauto] [DEBUG] [wx.py:205]  [friend text]获取到新消息：小团体 - 这不提早润
+2025-06-22 19:29:04 [wxauto] [DEBUG] [wx.py:197]  窗口 小团体 已关闭，移除监听
+2025-06-23 00:21:58 [wxauto] [DEBUG] [wx.py:46]  监听消息失败：Traceback (most recent call last):
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 44, in _listener_listen
+    self._get_listen_messages()
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 203, in _get_listen_messages
+    msgs = chat.GetNewMessage()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\wx.py", line 155, in GetNewMessage
+    return self.core.get_new_msgs()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\main.py", line 103, in get_new_msgs
+    return self._get_chatbox().get_new_msgs()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\ui\chatbox.py", line 233, in get_new_msgs
+    if not self.msgbox.Exists(0):
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 6023, in Exists
+    control = FindControl(self.searchFromControl, self._CompareFunction, self.searchDepth, False, self.foundIndex)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 7905, in FindControl
+    if compare(child, depth):
+       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5976, in _CompareFunction
+    if value != control.Name:
+                ^^^^^^^^^^^^
+  File "C:\Users\gnuom\AppData\Local\Programs\Python\Python312\Lib\site-packages\wxauto\uiautomation.py", line 5644, in Name
+    return self.Element.CurrentName or ''   # CurrentName may be None
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+_ctypes.COMError: (-2146233083, None, (None, None, None, 0, None))
+

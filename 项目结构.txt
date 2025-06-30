@@ -1,0 +1,11 @@
+wxauto/
+©À©¤©¤ config.py
+©À©¤©¤ logger.py
+©À©¤©¤ weather.py
+©À©¤©¤ checkin.py
+©À©¤©¤ main.py
+©À©¤©¤ ui.py
+©À©¤©¤ run_ui.py
+©À©¤©¤ logs/
+©¸©¤©¤ data/
+    ©¸©¤©¤ checkin/
