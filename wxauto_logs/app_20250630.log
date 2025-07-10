@@ -528,6 +528,7 @@
 2025-06-30 10:54:54 [root] [INFO] [ui.py:105]  🛑 停止监听
 2025-06-30 10:54:54 [wxauto] [DEBUG] [wx.py:31]  开始监听
 2025-06-30 10:54:55 [root] [INFO] [ui.py:202]  🧵 线程已退出
+<<<<<<< HEAD
 2025-06-30 16:29:17 [wxauto] [DEBUG] [wx.py:31]  开始监听
 2025-06-30 16:29:18 [root] [ERROR] [ui.py:198]  ❌ 执行 WorkerThread.run() 时发生异常
 Traceback (most recent call last):
@@ -38434,3 +38435,5 @@ UnboundLocalError: cannot access local variable 'chat_name_control' where it is 
 2025-07-01 07:51:00 [root] [INFO] [ui.py:105]  🛑 停止监听
 2025-07-01 07:51:00 [wxauto] [DEBUG] [wx.py:31]  开始监听
 2025-07-01 07:51:01 [root] [INFO] [ui.py:202]  🧵 线程已退出
+=======
+>>>>>>> 53154f61cb866718cf4245467589d2a2d425e538

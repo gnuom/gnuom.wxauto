@@ -1,4 +1,5 @@
 import os
+<<<<<<< HEAD
 import shutil
 import pandas as pd
 from wxauto import WeChat
@@ -130,6 +131,12 @@ def batch_mark_calendar(group_name, month, days):
         return None
             
     
+=======
+import pandas as pd
+from datetime import datetime, timedelta
+from logger import logger
+
+>>>>>>> 53154f61cb866718cf4245467589d2a2d425e538
 
 def calculate_continuous_days(df, user_id):
     user_records = df[df['user_id'] == user_id].sort_values(by='checkin_time', ascending=False)
@@ -151,6 +158,10 @@ def calculate_continuous_days(df, user_id):
     else:
         return 1
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 53154f61cb866718cf4245467589d2a2d425e538
 def handle_checkin(msg, chat):
     try:
         now = datetime.now()
